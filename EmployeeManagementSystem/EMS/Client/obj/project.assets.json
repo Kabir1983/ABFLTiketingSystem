@@ -2169,11 +2169,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practice\\EmployeeManagementSystem\\EMS\\Client\\Client.csproj",
+      "projectUniqueName": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\Client\\Client.csproj",
       "projectName": "Client",
-      "projectPath": "D:\\Practice\\EmployeeManagementSystem\\EMS\\Client\\Client.csproj",
+      "projectPath": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\Client\\Client.csproj",
       "packagesPath": "C:\\Users\\HumaiunKabir\\.nuget\\packages\\",
-      "outputPath": "D:\\Practice\\EmployeeManagementSystem\\EMS\\Client\\obj\\",
+      "outputPath": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
@@ -2199,11 +2199,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Practice\\EmployeeManagementSystem\\EMS\\BaseLibrary\\BaseLibrary.csproj": {
-              "projectPath": "D:\\Practice\\EmployeeManagementSystem\\EMS\\BaseLibrary\\BaseLibrary.csproj"
+            "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\BaseLibrary.csproj": {
+              "projectPath": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\BaseLibrary.csproj"
             },
-            "D:\\Practice\\EmployeeManagementSystem\\EMS\\ClientLibrary\\ClientLibrary.csproj": {
-              "projectPath": "D:\\Practice\\EmployeeManagementSystem\\EMS\\ClientLibrary\\ClientLibrary.csproj"
+            "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\ClientLibrary\\ClientLibrary.csproj": {
+              "projectPath": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\ClientLibrary\\ClientLibrary.csproj"
             }
           }
         }

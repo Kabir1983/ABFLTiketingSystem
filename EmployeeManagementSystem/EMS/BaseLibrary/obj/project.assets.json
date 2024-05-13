@@ -214,11 +214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practice\\EmployeeManagementSystem\\EMS\\BaseLibrary\\BaseLibrary.csproj",
+      "projectUniqueName": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\BaseLibrary.csproj",
       "projectName": "BaseLibrary",
-      "projectPath": "D:\\Practice\\EmployeeManagementSystem\\EMS\\BaseLibrary\\BaseLibrary.csproj",
+      "projectPath": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\BaseLibrary.csproj",
       "packagesPath": "C:\\Users\\HumaiunKabir\\.nuget\\packages\\",
-      "outputPath": "D:\\Practice\\EmployeeManagementSystem\\EMS\\BaseLibrary\\obj\\",
+      "outputPath": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practice\\EmployeeManagementSystem\\EMS\\ClientLibrary\\ClientLibrary.csproj",
+      "projectUniqueName": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\ClientLibrary\\ClientLibrary.csproj",
       "projectName": "ClientLibrary",
-      "projectPath": "D:\\Practice\\EmployeeManagementSystem\\EMS\\ClientLibrary\\ClientLibrary.csproj",
+      "projectPath": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\ClientLibrary\\ClientLibrary.csproj",
       "packagesPath": "C:\\Users\\HumaiunKabir\\.nuget\\packages\\",
-      "outputPath": "D:\\Practice\\EmployeeManagementSystem\\EMS\\ClientLibrary\\obj\\",
+      "outputPath": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\ClientLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",

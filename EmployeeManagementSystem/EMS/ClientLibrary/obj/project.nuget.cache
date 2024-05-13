@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vboWkyw/ozna4p3Dsppz+JnRb/uoOnBbhLePVu/13VGd9SwgQB/qabyHVykh7CXr/LQ/j8nfabDLgA44Yj3BTg==",
+  "dgSpecHash": "X+TJ9bLcauaMOu0Hb0sDMxQj53BBlL6mkQsjzJdmLY7Qssv7Bwvm6mBnXoRZVWpzJ56huZiTB5ZDZko/soJIKQ==",
   "success": true,
-  "projectFilePath": "D:\\Practice\\EmployeeManagementSystem\\EMS\\ClientLibrary\\ClientLibrary.csproj",
+  "projectFilePath": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\ClientLibrary\\ClientLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
