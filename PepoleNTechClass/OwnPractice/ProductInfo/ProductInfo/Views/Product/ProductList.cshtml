@@ -1,0 +1,32 @@
+﻿
+@{
+    int i = 1;  
+}
+
+
+<h4 class="alert alert-primary">Show Product List</h4>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>#Sl</th>
+            <th>Product Name</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Brand</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in ViewBag.ProductList)
+        {
+            <tr>
+                <td>@i</td>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                <td>@item.Price</td>
+                <td>@item.Brand</td>
+            </tr>
+            i++;
+        }
+    </tbody>
+</table>

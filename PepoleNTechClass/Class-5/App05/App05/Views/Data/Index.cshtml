@@ -1,0 +1,20 @@
+﻿@model IEnumerable<string>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<h3 class="alert alert-primary">List of Files</h3>
+
+
+<div class="row">
+    <div class="col-md-12">
+        @if (Model != null)
+        {
+            @foreach (var item in Model)
+            {
+                <h5 class="text-primary">@item</h5>
+            }
+        }
+    </div>
+</div>

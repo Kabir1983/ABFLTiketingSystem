@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "ShowProduct";
+    int i = 1;
+    double total = 0;
+}
+
+<h4 class="alert alert-primary">Show Product2</h4>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Sl#</th>
+            <th>Product Name</th>
+            <th>Unit</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Sub Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null)
+        {
+            @foreach (var item in Model)
+            {
+                double subTotal = item.Price * item.Quantity;
+                total += subTotal;
+                <tr>
+                    <td>@i</td>
+                    <td>@item.Name</td>
+                    <td>@item.Unit</td>
+                    <td>@item.Price</td>
+                    <td>@item.Quantity</td>
+                    <td>@subTotal</td>
+                </tr>
+                i++;
+            }   }
+        <tr><td colspan="5" style="font-size:large;font-weight:bold">TOTAL : </td><td style="font-size:large;font-weight:bold">@total</td></tr>
+    </tbody>
+</table>
+

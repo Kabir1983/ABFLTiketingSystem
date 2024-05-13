@@ -1,0 +1,71 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+</div>
+
+<div class="text-center">
+    <h1 id="course" class="alert alert-primary">Asp.Net Core MVC 8.0</h1>
+    <h1 id="db" class="alert alert-primary">SQL Server</h1>
+</div>
+
+<div class="cBox">
+    <h6>
+        teteljljlfds djfdlsfjsldf
+        dfsldfsl dfsdlfjsdlf
+        dfldsflsjl dfdslfj
+    </h6>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <button id="btnShowCourse" class="btn btn-primary">Show Course</button>
+        <button id="btnHideCourse" class="btn btn-success">Hide Course</button>
+    </div>
+    <div class="col-md-4">
+        <button id="btnShowDB" class="btn btn-primary">Show DB</button>
+        <button id="btnHideDB" class="btn btn-success">Hide DB</button>
+    </div>
+    <div class="col-md-4">
+    </div>
+</div>
+
+@section Scripts{
+    <script>
+        $(document).ready(function(){
+            // $('#course').fadeOut(10000);
+            // $('#db').fadeIn(15000);
+
+            $('#btnShowCourse').on('click',function(){
+                $('#course').show()
+            });
+
+            $('#btnHideCourse').on('click', function () {
+                $('#course').hide()
+            });
+
+            $('#btnShowDB').on('click', function () {
+                $('#db').show()
+            });
+
+            $('#btnHideDB').on('click', function () {
+                $('#db').hide()
+            })
+
+        })
+    </script>
+}
+
+@section Styles{
+    <style>
+        .cBox{
+            background-color: lightgrey;
+            width: 300px;
+            border: 15px solid green;
+            padding: 50px;
+            margin: 20px;
+        }
+    </style>
+}

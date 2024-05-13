@@ -1,0 +1,33 @@
+﻿@model List<App05.Models.FilesModel>
+@{
+    ViewData["Title"] = "FileList";
+}
+
+<h3 class="alert alert-primary">List of Files</h3>
+
+<div class="scrollme">
+    <table class="table table-responsive">
+        <thead>
+            <tr>
+                <th scope="col-md-1">#Sl</th>
+                <th scope="col-md-3">File Name</th>
+                <th scope="col-md-2">Extension</th>
+                <th scope="col-md-4">File Path</th>
+                <th scope="col-md-2">File Size</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.Extension</td>
+                    <td>@item.FilePath</td>
+                    <td>@item.Size</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

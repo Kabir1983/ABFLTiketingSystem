@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    int[] myData = (int[])ViewData["abc"];
+}
+
+<h4 class="alert alert-primary">Data Controller View Data> Index</h4>
+<br />
+
+
+<h4 class="text-primary">@ViewData["msg"]</h4>
+
+<br />
+@for (int i = 0; i < myData.Length; i++)
+{
+    <h4 class="text-primary">@myData[i]</h4>
+}
+
+
+<h4 class="alert alert-primary">Data Controller View Bag> Index</h4>
+<br />
+
+
+<h4 class="text-primary">@ViewBag.msg2</h4>
+
+<br />
+@foreach(var item in ViewBag.abc)
+{
+    <h4 class="text-primary">@item</h4>
+}

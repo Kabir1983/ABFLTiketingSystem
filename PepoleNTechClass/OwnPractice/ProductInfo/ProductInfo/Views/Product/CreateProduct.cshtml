@@ -1,0 +1,39 @@
+﻿@model ProductInfo.Models.Product
+
+
+@using (Html.BeginForm("CreateNewProduct", "Product", FormMethod.Post))
+{
+    <table cellpadding="0" cellspacing="0">
+        <tr>
+            <th colspan="2" align="center">Create Product</th>
+        </tr>
+        <tr>
+            <td>ProductName: </td>
+            <td>
+                @Html.TextBoxFor(m => m.Name)
+            </td>
+        </tr>
+        <tr>
+            <td>Description: </td>
+            <td>
+                @Html.TextBoxFor(m => m.Description)
+            </td>
+        </tr>
+        <tr>
+            <td>Price: </td>
+            <td>
+                @Html.TextBoxFor(m => m.Price)
+            </td>
+        </tr>
+        <tr>
+            <td>City: </td>
+            <td>
+                @Html.TextBoxFor(m => m.Brand)
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="submit" value="Submit" /></td>
+        </tr>
+    </table>
+}

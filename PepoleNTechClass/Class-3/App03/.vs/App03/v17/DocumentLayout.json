@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PepoleNTechClass\\Class-3\\App03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DDC785-96CF-43FD-A558-2477076BE73F}|App03\\App03.csproj|d:\\pepolentechclass\\class-3\\app03\\app03\\views\\data\\showproduct2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9DDC785-96CF-43FD-A558-2477076BE73F}|App03\\App03.csproj|solutionrelative:app03\\views\\data\\showproduct2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DDC785-96CF-43FD-A558-2477076BE73F}|App03\\App03.csproj|d:\\pepolentechclass\\class-3\\app03\\app03\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DDC785-96CF-43FD-A558-2477076BE73F}|App03\\App03.csproj|solutionrelative:app03\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DDC785-96CF-43FD-A558-2477076BE73F}|App03\\App03.csproj|d:\\pepolentechclass\\class-3\\app03\\app03\\views\\data\\showproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9DDC785-96CF-43FD-A558-2477076BE73F}|App03\\App03.csproj|solutionrelative:app03\\views\\data\\showproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DDC785-96CF-43FD-A558-2477076BE73F}|App03\\App03.csproj|d:\\pepolentechclass\\class-3\\app03\\app03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9DDC785-96CF-43FD-A558-2477076BE73F}|App03\\App03.csproj|solutionrelative:app03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DDC785-96CF-43FD-A558-2477076BE73F}|App03\\App03.csproj|d:\\pepolentechclass\\class-3\\app03\\app03\\views\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9DDC785-96CF-43FD-A558-2477076BE73F}|App03\\App03.csproj|solutionrelative:app03\\views\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DDC785-96CF-43FD-A558-2477076BE73F}|App03\\App03.csproj|d:\\pepolentechclass\\class-3\\app03\\app03\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DDC785-96CF-43FD-A558-2477076BE73F}|App03\\App03.csproj|solutionrelative:app03\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowProduct2.cshtml",
+              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-3\\App03\\App03\\Views\\Data\\ShowProduct2.cshtml",
+              "RelativeDocumentMoniker": "App03\\Views\\Data\\ShowProduct2.cshtml",
+              "ToolTip": "D:\\PepoleNTechClass\\Class-3\\App03\\App03\\Views\\Data\\ShowProduct2.cshtml",
+              "RelativeToolTip": "App03\\Views\\Data\\ShowProduct2.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T14:52:11.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-3\\App03\\App03\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "App03\\Models\\Product.cs",
+              "ToolTip": "D:\\PepoleNTechClass\\Class-3\\App03\\App03\\Models\\Product.cs",
+              "RelativeToolTip": "App03\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:48:31.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-3\\App03\\App03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "App03\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\PepoleNTechClass\\Class-3\\App03\\App03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "App03\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T13:22:42.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-3\\App03\\App03\\Views\\Data\\Index.cshtml",
+              "RelativeDocumentMoniker": "App03\\Views\\Data\\Index.cshtml",
+              "ToolTip": "D:\\PepoleNTechClass\\Class-3\\App03\\App03\\Views\\Data\\Index.cshtml",
+              "RelativeToolTip": "App03\\Views\\Data\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T13:20:31.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-3\\App03\\App03\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "App03\\Controllers\\DataController.cs",
+              "ToolTip": "D:\\PepoleNTechClass\\Class-3\\App03\\App03\\Controllers\\DataController.cs",
+              "RelativeToolTip": "App03\\Controllers\\DataController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wC0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:18:49.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowProduct.cshtml",
+              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-3\\App03\\App03\\Views\\Data\\ShowProduct.cshtml",
+              "RelativeDocumentMoniker": "App03\\Views\\Data\\ShowProduct.cshtml",
+              "ToolTip": "D:\\PepoleNTechClass\\Class-3\\App03\\App03\\Views\\Data\\ShowProduct.cshtml",
+              "RelativeToolTip": "App03\\Views\\Data\\ShowProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T14:04:47.752Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

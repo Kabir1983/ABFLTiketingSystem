@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PepoleNTechClass\\Class-5\\App05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF64D57-547F-4131-9AF3-A40E3105DF20}|App05\\App05.csproj|d:\\pepolentechclass\\class-5\\app05\\app05\\views\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF64D57-547F-4131-9AF3-A40E3105DF20}|App05\\App05.csproj|solutionrelative:app05\\views\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF64D57-547F-4131-9AF3-A40E3105DF20}|App05\\App05.csproj|d:\\pepolentechclass\\class-5\\app05\\app05\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF64D57-547F-4131-9AF3-A40E3105DF20}|App05\\App05.csproj|solutionrelative:app05\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF64D57-547F-4131-9AF3-A40E3105DF20}|App05\\App05.csproj|d:\\pepolentechclass\\class-5\\app05\\app05\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF64D57-547F-4131-9AF3-A40E3105DF20}|App05\\App05.csproj|solutionrelative:app05\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF64D57-547F-4131-9AF3-A40E3105DF20}|App05\\App05.csproj|d:\\pepolentechclass\\class-5\\app05\\app05\\views\\data\\hrinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF64D57-547F-4131-9AF3-A40E3105DF20}|App05\\App05.csproj|solutionrelative:app05\\views\\data\\hrinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF64D57-547F-4131-9AF3-A40E3105DF20}|App05\\App05.csproj|d:\\pepolentechclass\\class-5\\app05\\app05\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF64D57-547F-4131-9AF3-A40E3105DF20}|App05\\App05.csproj|solutionrelative:app05\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF64D57-547F-4131-9AF3-A40E3105DF20}|App05\\App05.csproj|d:\\pepolentechclass\\class-5\\app05\\app05\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF64D57-547F-4131-9AF3-A40E3105DF20}|App05\\App05.csproj|solutionrelative:app05\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF64D57-547F-4131-9AF3-A40E3105DF20}|App05\\App05.csproj|d:\\pepolentechclass\\class-5\\app05\\app05\\views\\data\\filelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF64D57-547F-4131-9AF3-A40E3105DF20}|App05\\App05.csproj|solutionrelative:app05\\views\\data\\filelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF64D57-547F-4131-9AF3-A40E3105DF20}|App05\\App05.csproj|d:\\pepolentechclass\\class-5\\app05\\app05\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DFF64D57-547F-4131-9AF3-A40E3105DF20}|App05\\App05.csproj|solutionrelative:app05\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF64D57-547F-4131-9AF3-A40E3105DF20}|App05\\App05.csproj|d:\\pepolentechclass\\class-5\\app05\\app05\\models\\filesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF64D57-547F-4131-9AF3-A40E3105DF20}|App05\\App05.csproj|solutionrelative:app05\\models\\filesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF64D57-547F-4131-9AF3-A40E3105DF20}|App05\\App05.csproj|d:\\pepolentechclass\\class-5\\app05\\app05\\views\\data\\subfolder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF64D57-547F-4131-9AF3-A40E3105DF20}|App05\\App05.csproj|solutionrelative:app05\\views\\data\\subfolder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HRInfo.cshtml",
+              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-5\\App05\\App05\\Views\\Data\\HRInfo.cshtml",
+              "RelativeDocumentMoniker": "App05\\Views\\Data\\HRInfo.cshtml",
+              "ToolTip": "D:\\PepoleNTechClass\\Class-5\\App05\\App05\\Views\\Data\\HRInfo.cshtml",
+              "RelativeToolTip": "App05\\Views\\Data\\HRInfo.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T14:32:52.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-5\\App05\\App05\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "App05\\Models\\Person.cs",
+              "ToolTip": "D:\\PepoleNTechClass\\Class-5\\App05\\App05\\Models\\Person.cs",
+              "RelativeToolTip": "App05\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:28:28.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileList.cshtml",
+              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-5\\App05\\App05\\Views\\Data\\FileList.cshtml",
+              "RelativeDocumentMoniker": "App05\\Views\\Data\\FileList.cshtml",
+              "ToolTip": "D:\\PepoleNTechClass\\Class-5\\App05\\App05\\Views\\Data\\FileList.cshtml",
+              "RelativeToolTip": "App05\\Views\\Data\\FileList.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T13:39:32.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Subfolder.cshtml",
+              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-5\\App05\\App05\\Views\\Data\\Subfolder.cshtml",
+              "RelativeDocumentMoniker": "App05\\Views\\Data\\Subfolder.cshtml",
+              "ToolTip": "D:\\PepoleNTechClass\\Class-5\\App05\\App05\\Views\\Data\\Subfolder.cshtml",
+              "RelativeToolTip": "App05\\Views\\Data\\Subfolder.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T13:20:45.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-5\\App05\\App05\\Views\\Data\\Index.cshtml",
+              "RelativeDocumentMoniker": "App05\\Views\\Data\\Index.cshtml",
+              "ToolTip": "D:\\PepoleNTechClass\\Class-5\\App05\\App05\\Views\\Data\\Index.cshtml",
+              "RelativeToolTip": "App05\\Views\\Data\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T13:18:55.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-5\\App05\\App05\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "App05\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\PepoleNTechClass\\Class-5\\App05\\App05\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "App05\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T13:15:41.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-5\\App05\\App05\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "App05\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\PepoleNTechClass\\Class-5\\App05\\App05\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "App05\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T13:11:55.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-5\\App05\\App05\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "App05\\Controllers\\DataController.cs",
+              "ToolTip": "D:\\PepoleNTechClass\\Class-5\\App05\\App05\\Controllers\\DataController.cs",
+              "RelativeToolTip": "App05\\Controllers\\DataController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:07:49.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FilesModel.cs",
+              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-5\\App05\\App05\\Models\\FilesModel.cs",
+              "RelativeDocumentMoniker": "App05\\Models\\FilesModel.cs",
+              "ToolTip": "D:\\PepoleNTechClass\\Class-5\\App05\\App05\\Models\\FilesModel.cs",
+              "RelativeToolTip": "App05\\Models\\FilesModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:25:11.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-5\\App05\\App05\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "App05\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\PepoleNTechClass\\Class-5\\App05\\App05\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "App05\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-11T14:00:09.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
