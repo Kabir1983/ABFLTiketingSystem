@@ -1,43 +1,43 @@
 {
   "Files": [
     {
-      "Id": "D:\\Practice\\EmployeeManagementSystem\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "E:\\Software Development\\GitHubProject\\GitHubProject\\EmployeeManagementSystem\\EMS\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "D:\\Practice\\EmployeeManagementSystem\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\3ot5vu1q02.gz",
+      "Id": "E:\\Software Development\\GitHubProject\\GitHubProject\\EmployeeManagementSystem\\EMS\\Client\\obj\\Debug\\net8.0\\compressed\\ovci9hu6mt.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "D:\\Practice\\EmployeeManagementSystem\\EMS\\Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Client.styles.css",
+      "Id": "E:\\Software Development\\GitHubProject\\GitHubProject\\EmployeeManagementSystem\\EMS\\Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Client.styles.css",
       "PackagePath": "staticwebassets\\Client.styles.css"
     },
     {
-      "Id": "D:\\Practice\\EmployeeManagementSystem\\EMS\\Client\\wwwroot\\css\\app.css",
+      "Id": "E:\\Software Development\\GitHubProject\\GitHubProject\\EmployeeManagementSystem\\EMS\\Client\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "D:\\Practice\\EmployeeManagementSystem\\EMS\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "E:\\Software Development\\GitHubProject\\GitHubProject\\EmployeeManagementSystem\\EMS\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Practice\\EmployeeManagementSystem\\EMS\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "E:\\Software Development\\GitHubProject\\GitHubProject\\EmployeeManagementSystem\\EMS\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Practice\\EmployeeManagementSystem\\EMS\\Client\\wwwroot\\favicon.png",
+      "Id": "E:\\Software Development\\GitHubProject\\GitHubProject\\EmployeeManagementSystem\\EMS\\Client\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "D:\\Practice\\EmployeeManagementSystem\\EMS\\Client\\wwwroot\\icon-192.png",
+      "Id": "E:\\Software Development\\GitHubProject\\GitHubProject\\EmployeeManagementSystem\\EMS\\Client\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "D:\\Practice\\EmployeeManagementSystem\\EMS\\Client\\wwwroot\\index.html",
+      "Id": "E:\\Software Development\\GitHubProject\\GitHubProject\\EmployeeManagementSystem\\EMS\\Client\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "D:\\Practice\\EmployeeManagementSystem\\EMS\\Client\\wwwroot\\sample-data\\weather.json",
+      "Id": "E:\\Software Development\\GitHubProject\\GitHubProject\\EmployeeManagementSystem\\EMS\\Client\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {

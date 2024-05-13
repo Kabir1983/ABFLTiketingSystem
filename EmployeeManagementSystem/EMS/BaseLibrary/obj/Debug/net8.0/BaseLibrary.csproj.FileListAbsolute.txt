@@ -10,3 +10,16 @@ D:\Practice\EmployeeManagementSystem\EMS\BaseLibrary\obj\Debug\net8.0\BaseLibrar
 D:\Practice\EmployeeManagementSystem\EMS\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
 D:\Practice\EmployeeManagementSystem\EMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
 D:\Practice\EmployeeManagementSystem\EMS\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll
+E:\Software Development\GitHubProject\GitHubProject\EmployeeManagementSystem\EMS\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+E:\Software Development\GitHubProject\GitHubProject\EmployeeManagementSystem\EMS\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+E:\Software Development\GitHubProject\GitHubProject\EmployeeManagementSystem\EMS\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+E:\Software Development\GitHubProject\GitHubProject\EmployeeManagementSystem\EMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.AssemblyReference.cache
+E:\Software Development\GitHubProject\GitHubProject\EmployeeManagementSystem\EMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software Development\GitHubProject\GitHubProject\EmployeeManagementSystem\EMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+E:\Software Development\GitHubProject\GitHubProject\EmployeeManagementSystem\EMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+E:\Software Development\GitHubProject\GitHubProject\EmployeeManagementSystem\EMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+E:\Software Development\GitHubProject\GitHubProject\EmployeeManagementSystem\EMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.sourcelink.json
+E:\Software Development\GitHubProject\GitHubProject\EmployeeManagementSystem\EMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+E:\Software Development\GitHubProject\GitHubProject\EmployeeManagementSystem\EMS\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+E:\Software Development\GitHubProject\GitHubProject\EmployeeManagementSystem\EMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+E:\Software Development\GitHubProject\GitHubProject\EmployeeManagementSystem\EMS\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll
