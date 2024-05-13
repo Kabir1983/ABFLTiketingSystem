@@ -1,0 +1,15 @@
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.BLL\bin\Debug\net6.0\ResumeManager.BLL.deps.json
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.BLL\bin\Debug\net6.0\ResumeManager.BLL.dll
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.BLL\bin\Debug\net6.0\ResumeManager.BLL.pdb
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.BLL\bin\Debug\net6.0\ResumeManager.Models.dll
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.BLL\bin\Debug\net6.0\ResumeManager.Models.pdb
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.BLL\obj\Debug\net6.0\ResumeManager.BLL.csproj.AssemblyReference.cache
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.BLL\obj\Debug\net6.0\ResumeManager.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.BLL\obj\Debug\net6.0\ResumeManager.BLL.AssemblyInfoInputs.cache
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.BLL\obj\Debug\net6.0\ResumeManager.BLL.AssemblyInfo.cs
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.BLL\obj\Debug\net6.0\ResumeManager.BLL.csproj.CoreCompileInputs.cache
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.BLL\obj\Debug\net6.0\ResumeManager.BLL.csproj.CopyComplete
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.BLL\obj\Debug\net6.0\ResumeManager.BLL.dll
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.BLL\obj\Debug\net6.0\refint\ResumeManager.BLL.dll
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.BLL\obj\Debug\net6.0\ResumeManager.BLL.pdb
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.BLL\obj\Debug\net6.0\ref\ResumeManager.BLL.dll

@@ -1,0 +1,14 @@
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.Models\bin\Debug\net6.0\ResumeManager.Models.deps.json
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.Models\bin\Debug\net6.0\ResumeManager.Models.runtimeconfig.json
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.Models\bin\Debug\net6.0\ResumeManager.Models.dll
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.Models\bin\Debug\net6.0\ResumeManager.Models.pdb
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.Models\obj\Debug\net6.0\ResumeManager.Models.csproj.AssemblyReference.cache
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.Models\obj\Debug\net6.0\ResumeManager.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.Models\obj\Debug\net6.0\ResumeManager.Models.AssemblyInfoInputs.cache
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.Models\obj\Debug\net6.0\ResumeManager.Models.AssemblyInfo.cs
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.Models\obj\Debug\net6.0\ResumeManager.Models.csproj.CoreCompileInputs.cache
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.Models\obj\Debug\net6.0\ResumeManager.Models.dll
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.Models\obj\Debug\net6.0\refint\ResumeManager.Models.dll
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.Models\obj\Debug\net6.0\ResumeManager.Models.pdb
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.Models\obj\Debug\net6.0\ResumeManager.Models.genruntimeconfig.cache
+D:\Practice\ResumeManager\ResumeManager.UI\ResumeManager.Models\obj\Debug\net6.0\ref\ResumeManager.Models.dll

@@ -1,0 +1,12 @@
+D:\Practice\EmployeeManagementSystem\EMS\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+D:\Practice\EmployeeManagementSystem\EMS\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+D:\Practice\EmployeeManagementSystem\EMS\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+D:\Practice\EmployeeManagementSystem\EMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.AssemblyReference.cache
+D:\Practice\EmployeeManagementSystem\EMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\EmployeeManagementSystem\EMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+D:\Practice\EmployeeManagementSystem\EMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+D:\Practice\EmployeeManagementSystem\EMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+D:\Practice\EmployeeManagementSystem\EMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+D:\Practice\EmployeeManagementSystem\EMS\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+D:\Practice\EmployeeManagementSystem\EMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+D:\Practice\EmployeeManagementSystem\EMS\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll

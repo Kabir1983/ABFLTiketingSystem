@@ -1,0 +1,17 @@
+D:\Practice\EmployeeManagementSystem\EMS\ServerLibrary\bin\Debug\net8.0\ServerLibrary.deps.json
+D:\Practice\EmployeeManagementSystem\EMS\ServerLibrary\bin\Debug\net8.0\ServerLibrary.runtimeconfig.json
+D:\Practice\EmployeeManagementSystem\EMS\ServerLibrary\bin\Debug\net8.0\ServerLibrary.dll
+D:\Practice\EmployeeManagementSystem\EMS\ServerLibrary\bin\Debug\net8.0\ServerLibrary.pdb
+D:\Practice\EmployeeManagementSystem\EMS\ServerLibrary\bin\Debug\net8.0\BaseLibrary.dll
+D:\Practice\EmployeeManagementSystem\EMS\ServerLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+D:\Practice\EmployeeManagementSystem\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.AssemblyReference.cache
+D:\Practice\EmployeeManagementSystem\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\EmployeeManagementSystem\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfoInputs.cache
+D:\Practice\EmployeeManagementSystem\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfo.cs
+D:\Practice\EmployeeManagementSystem\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.CoreCompileInputs.cache
+D:\Practice\EmployeeManagementSystem\EMS\ServerLibrary\obj\Debug\net8.0\ServerLi.AF94C59E.Up2Date
+D:\Practice\EmployeeManagementSystem\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.dll
+D:\Practice\EmployeeManagementSystem\EMS\ServerLibrary\obj\Debug\net8.0\refint\ServerLibrary.dll
+D:\Practice\EmployeeManagementSystem\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.pdb
+D:\Practice\EmployeeManagementSystem\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.genruntimeconfig.cache
+D:\Practice\EmployeeManagementSystem\EMS\ServerLibrary\obj\Debug\net8.0\ref\ServerLibrary.dll
