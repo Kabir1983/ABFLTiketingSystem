@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PepoleNTechClass\\Class-4\\App4\\",
+  "WorkspaceRootPath": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|d:\\pepolentechclass\\class-4\\app4\\app4\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|solutionrelative:app4\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|d:\\pepolentechclass\\class-4\\app4\\app4\\views\\home\\agency.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|solutionrelative:app4\\views\\home\\agency.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|d:\\pepolentechclass\\class-4\\app4\\app4\\views\\shared\\_layoutforagency.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|solutionrelative:app4\\views\\shared\\_layoutforagency.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|d:\\pepolentechclass\\class-4\\app4\\app4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|solutionrelative:app4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|d:\\pepolentechclass\\class-4\\app4\\app4\\views\\shared\\_layout_job_portal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|solutionrelative:app4\\views\\shared\\_layout_job_portal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|d:\\pepolentechclass\\class-4\\app4\\app4\\views\\home\\jobportal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|solutionrelative:app4\\views\\home\\jobportal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|d:\\pepolentechclass\\class-4\\app4\\app4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|d:\\sourcecontrol\\githubproject\\pepolentechclass\\class-4\\app4\\app4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|solutionrelative:app4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|d:\\pepolentechclass\\class-4\\app4\\app4\\views\\home\\hr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|d:\\sourcecontrol\\githubproject\\pepolentechclass\\class-4\\app4\\app4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|solutionrelative:app4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|d:\\sourcecontrol\\githubproject\\pepolentechclass\\class-4\\app4\\app4\\views\\home\\jobportal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|solutionrelative:app4\\views\\home\\jobportal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|d:\\sourcecontrol\\githubproject\\pepolentechclass\\class-4\\app4\\app4\\views\\home\\agency.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|solutionrelative:app4\\views\\home\\agency.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|d:\\sourcecontrol\\githubproject\\pepolentechclass\\class-4\\app4\\app4\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|solutionrelative:app4\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|d:\\sourcecontrol\\githubproject\\pepolentechclass\\class-4\\app4\\app4\\views\\shared\\_layoutforagency.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|solutionrelative:app4\\views\\shared\\_layoutforagency.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|d:\\sourcecontrol\\githubproject\\pepolentechclass\\class-4\\app4\\app4\\views\\shared\\_layout_job_portal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|solutionrelative:app4\\views\\shared\\_layout_job_portal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|d:\\sourcecontrol\\githubproject\\pepolentechclass\\class-4\\app4\\app4\\views\\home\\hr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|solutionrelative:app4\\views\\home\\hr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|d:\\pepolentechclass\\class-4\\app4\\app4\\views\\home\\sales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|d:\\sourcecontrol\\githubproject\\pepolentechclass\\class-4\\app4\\app4\\views\\home\\sales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|solutionrelative:app4\\views\\home\\sales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|d:\\pepolentechclass\\class-4\\app4\\app4\\views\\home\\management.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|d:\\sourcecontrol\\githubproject\\pepolentechclass\\class-4\\app4\\app4\\views\\home\\management.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|solutionrelative:app4\\views\\home\\management.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|d:\\pepolentechclass\\class-4\\app4\\app4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|d:\\sourcecontrol\\githubproject\\pepolentechclass\\class-4\\app4\\app4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2ABAFEDB-2196-4196-BDC0-07742DD2EE65}|App4\\App4.csproj|solutionrelative:app4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -54,69 +54,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "App4\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "App4\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-10T15:31:26.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout_job_portal.cshtml",
-              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Shared\\_Layout_job_portal.cshtml",
-              "RelativeDocumentMoniker": "App4\\Views\\Shared\\_Layout_job_portal.cshtml",
-              "ToolTip": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Shared\\_Layout_job_portal.cshtml",
-              "RelativeToolTip": "App4\\Views\\Shared\\_Layout_job_portal.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-10T14:21:20.454Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_LayoutForAgency.cshtml",
-              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Shared\\_LayoutForAgency.cshtml",
-              "RelativeDocumentMoniker": "App4\\Views\\Shared\\_LayoutForAgency.cshtml",
-              "ToolTip": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Shared\\_LayoutForAgency.cshtml",
-              "RelativeToolTip": "App4\\Views\\Shared\\_LayoutForAgency.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-10T14:01:29.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HR.cshtml",
-              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\HR.cshtml",
-              "RelativeDocumentMoniker": "App4\\Views\\Home\\HR.cshtml",
-              "ToolTip": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\HR.cshtml",
-              "RelativeToolTip": "App4\\Views\\Home\\HR.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-10T13:58:29.54Z"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Sales.cshtml",
-              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\Sales.cshtml",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\Sales.cshtml",
               "RelativeDocumentMoniker": "App4\\Views\\Home\\Sales.cshtml",
-              "ToolTip": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\Sales.cshtml",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\Sales.cshtml",
               "RelativeToolTip": "App4\\Views\\Home\\Sales.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -126,9 +76,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Management.cshtml",
-              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\Management.cshtml",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\Management.cshtml",
               "RelativeDocumentMoniker": "App4\\Views\\Home\\Management.cshtml",
-              "ToolTip": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\Management.cshtml",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\Management.cshtml",
               "RelativeToolTip": "App4\\Views\\Home\\Management.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -136,11 +86,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Agency.cshtml",
-              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\Agency.cshtml",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\Agency.cshtml",
               "RelativeDocumentMoniker": "App4\\Views\\Home\\Agency.cshtml",
-              "ToolTip": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\Agency.cshtml",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\Agency.cshtml",
               "RelativeToolTip": "App4\\Views\\Home\\Agency.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -149,52 +99,103 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "JobPortal.cshtml",
-              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\JobPortal.cshtml",
-              "RelativeDocumentMoniker": "App4\\Views\\Home\\JobPortal.cshtml",
-              "ToolTip": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\JobPortal.cshtml",
-              "RelativeToolTip": "App4\\Views\\Home\\JobPortal.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-10T14:23:46.087Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "App4\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\Controllers\\HomeController.cs",
               "RelativeToolTip": "App4\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAswDIAAAArAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAwwDIAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T13:55:59.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "App4\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "App4\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "JobPortal.cshtml",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\JobPortal.cshtml",
+              "RelativeDocumentMoniker": "App4\\Views\\Home\\JobPortal.cshtml",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\JobPortal.cshtml",
+              "RelativeToolTip": "App4\\Views\\Home\\JobPortal.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-10T13:50:28.841Z"
+              "WhenOpened": "2024-05-10T14:23:46.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LayoutForAgency.cshtml",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Shared\\_LayoutForAgency.cshtml",
+              "RelativeDocumentMoniker": "App4\\Views\\Shared\\_LayoutForAgency.cshtml",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Shared\\_LayoutForAgency.cshtml",
+              "RelativeToolTip": "App4\\Views\\Shared\\_LayoutForAgency.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T14:01:29.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "App4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "App4\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T13:45:02.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HR.cshtml",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\HR.cshtml",
+              "RelativeDocumentMoniker": "App4\\Views\\Home\\HR.cshtml",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\HR.cshtml",
+              "RelativeToolTip": "App4\\Views\\Home\\HR.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T13:58:29.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "App4\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "App4\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T15:31:26.658Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "App4\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "App4\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMBAAAAAAAAAAAAwBsBAAAAAAAA",
+              "Title": "_Layout_job_portal.cshtml",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Shared\\_Layout_job_portal.cshtml",
+              "RelativeDocumentMoniker": "App4\\Views\\Shared\\_Layout_job_portal.cshtml",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Shared\\_Layout_job_portal.cshtml",
+              "RelativeToolTip": "App4\\Views\\Shared\\_Layout_job_portal.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-10T13:45:02.77Z"
+              "WhenOpened": "2024-05-10T14:21:20.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "App4\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "App4\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T13:50:28.841Z"
             }
           ]
         }

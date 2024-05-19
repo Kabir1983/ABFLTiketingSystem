@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-7\\RoutingPro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1A4B92-6AE0-4833-83E8-9DF07E5502FE}|RoutingPro\\RoutingPro.csproj|d:\\sourcecontrol\\githubproject\\pepolentechclass\\class-7\\routingpro\\routingpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1A4B92-6AE0-4833-83E8-9DF07E5502FE}|RoutingPro\\RoutingPro.csproj|solutionrelative:routingpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1A4B92-6AE0-4833-83E8-9DF07E5502FE}|RoutingPro\\RoutingPro.csproj|d:\\sourcecontrol\\githubproject\\pepolentechclass\\class-7\\routingpro\\routingpro\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1A4B92-6AE0-4833-83E8-9DF07E5502FE}|RoutingPro\\RoutingPro.csproj|solutionrelative:routingpro\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1A4B92-6AE0-4833-83E8-9DF07E5502FE}|RoutingPro\\RoutingPro.csproj|d:\\sourcecontrol\\githubproject\\pepolentechclass\\class-7\\routingpro\\routingpro\\views\\course\\students.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F1A4B92-6AE0-4833-83E8-9DF07E5502FE}|RoutingPro\\RoutingPro.csproj|solutionrelative:routingpro\\views\\course\\students.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1A4B92-6AE0-4833-83E8-9DF07E5502FE}|RoutingPro\\RoutingPro.csproj|d:\\sourcecontrol\\githubproject\\pepolentechclass\\class-7\\routingpro\\routingpro\\views\\news\\page.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F1A4B92-6AE0-4833-83E8-9DF07E5502FE}|RoutingPro\\RoutingPro.csproj|solutionrelative:routingpro\\views\\news\\page.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1A4B92-6AE0-4833-83E8-9DF07E5502FE}|RoutingPro\\RoutingPro.csproj|d:\\sourcecontrol\\githubproject\\pepolentechclass\\class-7\\routingpro\\routingpro\\views\\news\\article.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F1A4B92-6AE0-4833-83E8-9DF07E5502FE}|RoutingPro\\RoutingPro.csproj|solutionrelative:routingpro\\views\\news\\article.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1A4B92-6AE0-4833-83E8-9DF07E5502FE}|RoutingPro\\RoutingPro.csproj|d:\\sourcecontrol\\githubproject\\pepolentechclass\\class-7\\routingpro\\routingpro\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1A4B92-6AE0-4833-83E8-9DF07E5502FE}|RoutingPro\\RoutingPro.csproj|solutionrelative:routingpro\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1A4B92-6AE0-4833-83E8-9DF07E5502FE}|RoutingPro\\RoutingPro.csproj|d:\\sourcecontrol\\githubproject\\pepolentechclass\\class-7\\routingpro\\routingpro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1A4B92-6AE0-4833-83E8-9DF07E5502FE}|RoutingPro\\RoutingPro.csproj|solutionrelative:routingpro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Students.cshtml",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-7\\RoutingPro\\RoutingPro\\Views\\Course\\Students.cshtml",
+              "RelativeDocumentMoniker": "RoutingPro\\Views\\Course\\Students.cshtml",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-7\\RoutingPro\\RoutingPro\\Views\\Course\\Students.cshtml",
+              "RelativeToolTip": "RoutingPro\\Views\\Course\\Students.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T15:08:56.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-7\\RoutingPro\\RoutingPro\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "RoutingPro\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-7\\RoutingPro\\RoutingPro\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "RoutingPro\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:07:08.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Page.cshtml",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-7\\RoutingPro\\RoutingPro\\Views\\News\\Page.cshtml",
+              "RelativeDocumentMoniker": "RoutingPro\\Views\\News\\Page.cshtml",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-7\\RoutingPro\\RoutingPro\\Views\\News\\Page.cshtml",
+              "RelativeToolTip": "RoutingPro\\Views\\News\\Page.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T14:42:34.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Article.cshtml",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-7\\RoutingPro\\RoutingPro\\Views\\News\\Article.cshtml",
+              "RelativeDocumentMoniker": "RoutingPro\\Views\\News\\Article.cshtml",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-7\\RoutingPro\\RoutingPro\\Views\\News\\Article.cshtml",
+              "RelativeToolTip": "RoutingPro\\Views\\News\\Article.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T14:01:07.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-7\\RoutingPro\\RoutingPro\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "RoutingPro\\Controllers\\NewsController.cs",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-7\\RoutingPro\\RoutingPro\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "RoutingPro\\Controllers\\NewsController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwCAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:54:52.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-7\\RoutingPro\\RoutingPro\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RoutingPro\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-7\\RoutingPro\\RoutingPro\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RoutingPro\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:54:25.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-7\\RoutingPro\\RoutingPro\\Program.cs",
+              "RelativeDocumentMoniker": "RoutingPro\\Program.cs",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-7\\RoutingPro\\RoutingPro\\Program.cs",
+              "RelativeToolTip": "RoutingPro\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:53:48.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,12 +1,296 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Software Development\\GitHubProject\\GitHubProject\\EmployeeManagementSystem\\EMS\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF942DF-C454-4AA9-BD0D-E0BDDFA2A161}|Server\\Server.csproj|d:\\sourcecontrol\\githubproject\\employeemanagementsystem\\ems\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DEF942DF-C454-4AA9-BD0D-E0BDDFA2A161}|Server\\Server.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBF7852-4109-4A7B-BD2D-AFB0AE80C9DA}|ServerLibrary\\ServerLibrary.csproj|d:\\sourcecontrol\\githubproject\\employeemanagementsystem\\ems\\serverlibrary\\helpers\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBF7852-4109-4A7B-BD2D-AFB0AE80C9DA}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\helpers\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBF7852-4109-4A7B-BD2D-AFB0AE80C9DA}|ServerLibrary\\ServerLibrary.csproj|d:\\sourcecontrol\\githubproject\\employeemanagementsystem\\ems\\serverlibrary\\helpers\\jwtsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBF7852-4109-4A7B-BD2D-AFB0AE80C9DA}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\helpers\\jwtsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBF7852-4109-4A7B-BD2D-AFB0AE80C9DA}|ServerLibrary\\ServerLibrary.csproj|d:\\sourcecontrol\\githubproject\\employeemanagementsystem\\ems\\serverlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBF7852-4109-4A7B-BD2D-AFB0AE80C9DA}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBF7852-4109-4A7B-BD2D-AFB0AE80C9DA}|ServerLibrary\\ServerLibrary.csproj|d:\\sourcecontrol\\githubproject\\employeemanagementsystem\\ems\\serverlibrary\\data\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBF7852-4109-4A7B-BD2D-AFB0AE80C9DA}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\data\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBF7852-4109-4A7B-BD2D-AFB0AE80C9DA}|ServerLibrary\\ServerLibrary.csproj|d:\\sourcecontrol\\githubproject\\employeemanagementsystem\\ems\\serverlibrary\\data\\migrations\\20240507034327_firstmigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBF7852-4109-4A7B-BD2D-AFB0AE80C9DA}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\data\\migrations\\20240507034327_firstmigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF942DF-C454-4AA9-BD0D-E0BDDFA2A161}|Server\\Server.csproj|d:\\sourcecontrol\\githubproject\\employeemanagementsystem\\ems\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF942DF-C454-4AA9-BD0D-E0BDDFA2A161}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF942DF-C454-4AA9-BD0D-E0BDDFA2A161}|Server\\Server.csproj|d:\\sourcecontrol\\githubproject\\employeemanagementsystem\\ems\\server\\server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DEF942DF-C454-4AA9-BD0D-E0BDDFA2A161}|Server\\Server.csproj|solutionrelative:server\\server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF942DF-C454-4AA9-BD0D-E0BDDFA2A161}|Server\\Server.csproj|d:\\sourcecontrol\\githubproject\\employeemanagementsystem\\ems\\server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF942DF-C454-4AA9-BD0D-E0BDDFA2A161}|Server\\Server.csproj|solutionrelative:server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942FE18A-1A94-4A76-B8BE-B527A6638A49}|BaseLibrary\\BaseLibrary.csproj|d:\\sourcecontrol\\githubproject\\employeemanagementsystem\\ems\\baselibrary\\entities\\relationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942FE18A-1A94-4A76-B8BE-B527A6638A49}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\relationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942FE18A-1A94-4A76-B8BE-B527A6638A49}|BaseLibrary\\BaseLibrary.csproj|d:\\sourcecontrol\\githubproject\\employeemanagementsystem\\ems\\baselibrary\\dtos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942FE18A-1A94-4A76-B8BE-B527A6638A49}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942FE18A-1A94-4A76-B8BE-B527A6638A49}|BaseLibrary\\BaseLibrary.csproj|d:\\sourcecontrol\\githubproject\\employeemanagementsystem\\ems\\baselibrary\\dtos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942FE18A-1A94-4A76-B8BE-B527A6638A49}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942FE18A-1A94-4A76-B8BE-B527A6638A49}|BaseLibrary\\BaseLibrary.csproj|d:\\sourcecontrol\\githubproject\\employeemanagementsystem\\ems\\baselibrary\\dtos\\accountbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942FE18A-1A94-4A76-B8BE-B527A6638A49}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\accountbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942FE18A-1A94-4A76-B8BE-B527A6638A49}|BaseLibrary\\BaseLibrary.csproj|d:\\sourcecontrol\\githubproject\\employeemanagementsystem\\ems\\baselibrary\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942FE18A-1A94-4A76-B8BE-B527A6638A49}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBF7852-4109-4A7B-BD2D-AFB0AE80C9DA}|ServerLibrary\\ServerLibrary.csproj|d:\\sourcecontrol\\githubproject\\employeemanagementsystem\\ems\\serverlibrary\\repositories\\implementations\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBF7852-4109-4A7B-BD2D-AFB0AE80C9DA}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\repositories\\implementations\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBF7852-4109-4A7B-BD2D-AFB0AE80C9DA}|ServerLibrary\\ServerLibrary.csproj|d:\\sourcecontrol\\githubproject\\employeemanagementsystem\\ems\\serverlibrary\\repositories\\contracts\\iuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBF7852-4109-4A7B-BD2D-AFB0AE80C9DA}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\repositories\\contracts\\iuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\ServerLibrary\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\ServerLibrary\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ServerLibrary\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:30:34.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240507034327_FirstMigrations.cs",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\ServerLibrary\\Data\\Migrations\\20240507034327_FirstMigrations.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Data\\Migrations\\20240507034327_FirstMigrations.cs",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\ServerLibrary\\Data\\Migrations\\20240507034327_FirstMigrations.cs",
+              "RelativeToolTip": "ServerLibrary\\Data\\Migrations\\20240507034327_FirstMigrations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:30:32.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Server.http",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\Server\\Server.http",
+              "RelativeDocumentMoniker": "Server\\Server.http",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\Server\\Server.http",
+              "RelativeToolTip": "Server\\Server.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-16T11:30:06.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\ServerLibrary\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\ServerLibrary\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ServerLibrary\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:28:36.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtSection.cs",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\ServerLibrary\\Helpers\\JwtSection.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Helpers\\JwtSection.cs",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\ServerLibrary\\Helpers\\JwtSection.cs",
+              "RelativeToolTip": "ServerLibrary\\Helpers\\JwtSection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:28:06.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\ServerLibrary\\Helpers\\Constants.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Helpers\\Constants.cs",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\ServerLibrary\\Helpers\\Constants.cs",
+              "RelativeToolTip": "ServerLibrary\\Helpers\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:28:04.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Server\\appsettings.json",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\Server\\appsettings.json",
+              "RelativeToolTip": "Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T11:27:52.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\Server\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\Server\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Server\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:29:34.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Relationship.cs",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\Entities\\Relationship.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Relationship.cs",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\Entities\\Relationship.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\Relationship.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:29:14.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\DTOs\\Register.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\Register.cs",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\DTOs\\Register.cs",
+              "RelativeToolTip": "BaseLibrary\\DTOs\\Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:29:07.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\DTOs\\Login.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\Login.cs",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\DTOs\\Login.cs",
+              "RelativeToolTip": "BaseLibrary\\DTOs\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:29:05.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountBase.cs",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\DTOs\\AccountBase.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\AccountBase.cs",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\DTOs\\AccountBase.cs",
+              "RelativeToolTip": "BaseLibrary\\DTOs\\AccountBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:29:03.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:28:58.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:27:47.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserAccountRepository.cs",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "RelativeToolTip": "ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:28:23.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserAccount.cs",
+              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\ServerLibrary\\Repositories\\Contracts\\IUserAccount.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Repositories\\Contracts\\IUserAccount.cs",
+              "ToolTip": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\ServerLibrary\\Repositories\\Contracts\\IUserAccount.cs",
+              "RelativeToolTip": "ServerLibrary\\Repositories\\Contracts\\IUserAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:28:12.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

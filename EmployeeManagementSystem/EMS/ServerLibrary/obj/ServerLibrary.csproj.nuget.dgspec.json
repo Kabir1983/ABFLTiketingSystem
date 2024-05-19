@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Software Development\\GitHubProject\\GitHubProject\\EmployeeManagementSystem\\EMS\\ServerLibrary\\ServerLibrary.csproj": {}
+    "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\ServerLibrary\\ServerLibrary.csproj": {}
   },
   "projects": {
-    "E:\\Software Development\\GitHubProject\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\BaseLibrary.csproj": {
+    "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\BaseLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Software Development\\GitHubProject\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\BaseLibrary.csproj",
+        "projectUniqueName": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\BaseLibrary.csproj",
         "projectName": "BaseLibrary",
-        "projectPath": "E:\\Software Development\\GitHubProject\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\BaseLibrary.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\Software Development\\GitHubProject\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\obj\\",
+        "projectPath": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\BaseLibrary.csproj",
+        "packagesPath": "C:\\Users\\HumaiunKabir\\.nuget\\packages\\",
+        "outputPath": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HumaiunKabir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,8 +28,10 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.org/api/v2/": {}
         },
         "frameworks": {
           "net8.0": {
@@ -75,20 +79,22 @@
         }
       }
     },
-    "E:\\Software Development\\GitHubProject\\GitHubProject\\EmployeeManagementSystem\\EMS\\ServerLibrary\\ServerLibrary.csproj": {
+    "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\ServerLibrary\\ServerLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Software Development\\GitHubProject\\GitHubProject\\EmployeeManagementSystem\\EMS\\ServerLibrary\\ServerLibrary.csproj",
+        "projectUniqueName": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\ServerLibrary\\ServerLibrary.csproj",
         "projectName": "ServerLibrary",
-        "projectPath": "E:\\Software Development\\GitHubProject\\GitHubProject\\EmployeeManagementSystem\\EMS\\ServerLibrary\\ServerLibrary.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\Software Development\\GitHubProject\\GitHubProject\\EmployeeManagementSystem\\EMS\\ServerLibrary\\obj\\",
+        "projectPath": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\ServerLibrary\\ServerLibrary.csproj",
+        "packagesPath": "C:\\Users\\HumaiunKabir\\.nuget\\packages\\",
+        "outputPath": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\ServerLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HumaiunKabir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -97,15 +103,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.org/api/v2/": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Software Development\\GitHubProject\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\BaseLibrary.csproj": {
-                "projectPath": "E:\\Software Development\\GitHubProject\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\BaseLibrary.csproj"
+              "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\BaseLibrary.csproj": {
+                "projectPath": "D:\\SourceControl\\GitHubProject\\EmployeeManagementSystem\\EMS\\BaseLibrary\\BaseLibrary.csproj"
               }
             }
           }

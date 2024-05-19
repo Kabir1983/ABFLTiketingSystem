@@ -33,3 +33,21 @@ E:\Software Development\GitHubProject\GitHubProject\EmployeeManagementSystem\EMS
 E:\Software Development\GitHubProject\GitHubProject\EmployeeManagementSystem\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.pdb
 E:\Software Development\GitHubProject\GitHubProject\EmployeeManagementSystem\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.genruntimeconfig.cache
 E:\Software Development\GitHubProject\GitHubProject\EmployeeManagementSystem\EMS\ServerLibrary\obj\Debug\net8.0\ref\ServerLibrary.dll
+D:\SourceControl\GitHubProject\EmployeeManagementSystem\EMS\ServerLibrary\bin\Debug\net8.0\ServerLibrary.deps.json
+D:\SourceControl\GitHubProject\EmployeeManagementSystem\EMS\ServerLibrary\bin\Debug\net8.0\ServerLibrary.runtimeconfig.json
+D:\SourceControl\GitHubProject\EmployeeManagementSystem\EMS\ServerLibrary\bin\Debug\net8.0\ServerLibrary.dll
+D:\SourceControl\GitHubProject\EmployeeManagementSystem\EMS\ServerLibrary\bin\Debug\net8.0\ServerLibrary.pdb
+D:\SourceControl\GitHubProject\EmployeeManagementSystem\EMS\ServerLibrary\bin\Debug\net8.0\BaseLibrary.dll
+D:\SourceControl\GitHubProject\EmployeeManagementSystem\EMS\ServerLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+D:\SourceControl\GitHubProject\EmployeeManagementSystem\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.AssemblyReference.cache
+D:\SourceControl\GitHubProject\EmployeeManagementSystem\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceControl\GitHubProject\EmployeeManagementSystem\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfoInputs.cache
+D:\SourceControl\GitHubProject\EmployeeManagementSystem\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfo.cs
+D:\SourceControl\GitHubProject\EmployeeManagementSystem\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.CoreCompileInputs.cache
+D:\SourceControl\GitHubProject\EmployeeManagementSystem\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.sourcelink.json
+D:\SourceControl\GitHubProject\EmployeeManagementSystem\EMS\ServerLibrary\obj\Debug\net8.0\ServerLi.AF94C59E.Up2Date
+D:\SourceControl\GitHubProject\EmployeeManagementSystem\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.dll
+D:\SourceControl\GitHubProject\EmployeeManagementSystem\EMS\ServerLibrary\obj\Debug\net8.0\refint\ServerLibrary.dll
+D:\SourceControl\GitHubProject\EmployeeManagementSystem\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.pdb
+D:\SourceControl\GitHubProject\EmployeeManagementSystem\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.genruntimeconfig.cache
+D:\SourceControl\GitHubProject\EmployeeManagementSystem\EMS\ServerLibrary\obj\Debug\net8.0\ref\ServerLibrary.dll

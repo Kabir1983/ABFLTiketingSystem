@@ -1,0 +1,12 @@
+D:\SourceControl\GitHubProject\ABFL.TicketSystemApp\ABFL.Common\bin\Debug\net8.0\ABFL.Common.deps.json
+D:\SourceControl\GitHubProject\ABFL.TicketSystemApp\ABFL.Common\bin\Debug\net8.0\ABFL.Common.dll
+D:\SourceControl\GitHubProject\ABFL.TicketSystemApp\ABFL.Common\bin\Debug\net8.0\ABFL.Common.pdb
+D:\SourceControl\GitHubProject\ABFL.TicketSystemApp\ABFL.Common\obj\Debug\net8.0\ABFL.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceControl\GitHubProject\ABFL.TicketSystemApp\ABFL.Common\obj\Debug\net8.0\ABFL.Common.AssemblyInfoInputs.cache
+D:\SourceControl\GitHubProject\ABFL.TicketSystemApp\ABFL.Common\obj\Debug\net8.0\ABFL.Common.AssemblyInfo.cs
+D:\SourceControl\GitHubProject\ABFL.TicketSystemApp\ABFL.Common\obj\Debug\net8.0\ABFL.Common.csproj.CoreCompileInputs.cache
+D:\SourceControl\GitHubProject\ABFL.TicketSystemApp\ABFL.Common\obj\Debug\net8.0\ABFL.Common.sourcelink.json
+D:\SourceControl\GitHubProject\ABFL.TicketSystemApp\ABFL.Common\obj\Debug\net8.0\ABFL.Common.dll
+D:\SourceControl\GitHubProject\ABFL.TicketSystemApp\ABFL.Common\obj\Debug\net8.0\refint\ABFL.Common.dll
+D:\SourceControl\GitHubProject\ABFL.TicketSystemApp\ABFL.Common\obj\Debug\net8.0\ABFL.Common.pdb
+D:\SourceControl\GitHubProject\ABFL.TicketSystemApp\ABFL.Common\obj\Debug\net8.0\ref\ABFL.Common.dll

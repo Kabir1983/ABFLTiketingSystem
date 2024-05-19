@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PepoleNTechClass\\Class-3\\App03\\App03\\App03.csproj": {}
+    "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-3\\App03\\App03\\App03.csproj": {}
   },
   "projects": {
-    "D:\\PepoleNTechClass\\Class-3\\App03\\App03\\App03.csproj": {
+    "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-3\\App03\\App03\\App03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PepoleNTechClass\\Class-3\\App03\\App03\\App03.csproj",
+        "projectUniqueName": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-3\\App03\\App03\\App03.csproj",
         "projectName": "App03",
-        "projectPath": "D:\\PepoleNTechClass\\Class-3\\App03\\App03\\App03.csproj",
+        "projectPath": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-3\\App03\\App03\\App03.csproj",
         "packagesPath": "C:\\Users\\HumaiunKabir\\.nuget\\packages\\",
-        "outputPath": "D:\\PepoleNTechClass\\Class-3\\App03\\App03\\obj\\",
+        "outputPath": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-3\\App03\\App03\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",

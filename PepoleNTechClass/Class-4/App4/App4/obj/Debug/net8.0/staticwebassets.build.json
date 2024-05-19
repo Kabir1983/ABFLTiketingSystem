@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "APor7mKzuFKMqaSMb4wxoKJyedeD+36E8B+ygAONGIk=",
+  "Hash": "D6WotxJKJKa6CoGgKeDDFuLAKxtk/TWwi+d6NV1AT8U=",
   "Source": "App4",
   "BasePath": "_content/App4",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "App4\\wwwroot",
       "Source": "App4",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\obj\\Debug\\net8.0\\scopedcss\\bundle\\App4.styles.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\obj\\Debug\\net8.0\\scopedcss\\bundle\\App4.styles.css",
       "SourceId": "App4",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/App4",
       "RelativePath": "App4.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\obj\\Debug\\net8.0\\scopedcss\\bundle\\App4.styles.css"
+      "OriginalItemSpec": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\obj\\Debug\\net8.0\\scopedcss\\bundle\\App4.styles.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\App4.bundle.scp.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\App4.bundle.scp.css",
       "SourceId": "App4",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/App4",
       "RelativePath": "App4.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\App4.bundle.scp.css"
+      "OriginalItemSpec": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\App4.bundle.scp.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\favicon.ico",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\favicon.ico",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "agency/assets/favicon.ico",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\agency\\assets\\favicon.ico"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\about\\1.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\about\\1.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "agency/assets/img/about/1.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\agency\\assets\\img\\about\\1.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\about\\2.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\about\\2.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "agency/assets/img/about/2.jpg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\agency\\assets\\img\\about\\2.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\about\\3.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\about\\3.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "agency/assets/img/about/3.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\agency\\assets\\img\\about\\3.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\about\\4.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\about\\4.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "agency/assets/img/about/4.jpg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\agency\\assets\\img\\about\\4.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\close-icon.svg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\close-icon.svg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "agency/assets/img/close-icon.svg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\agency\\assets\\img\\close-icon.svg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\header-bg.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\header-bg.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "agency/assets/img/header-bg.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\agency\\assets\\img\\header-bg.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\logos\\facebook.svg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\logos\\facebook.svg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "agency/assets/img/logos/facebook.svg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\agency\\assets\\img\\logos\\facebook.svg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\logos\\google.svg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\logos\\google.svg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "agency/assets/img/logos/google.svg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\agency\\assets\\img\\logos\\google.svg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\logos\\ibm.svg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\logos\\ibm.svg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "agency/assets/img/logos/ibm.svg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\agency\\assets\\img\\logos\\ibm.svg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\logos\\microsoft.svg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\logos\\microsoft.svg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "agency/assets/img/logos/microsoft.svg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\agency\\assets\\img\\logos\\microsoft.svg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\map-image.png",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\map-image.png",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "agency/assets/img/map-image.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\agency\\assets\\img\\map-image.png"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\navbar-logo.svg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\navbar-logo.svg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "agency/assets/img/navbar-logo.svg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\agency\\assets\\img\\navbar-logo.svg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\portfolio\\1.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\portfolio\\1.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "agency/assets/img/portfolio/1.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\agency\\assets\\img\\portfolio\\1.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\portfolio\\2.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\portfolio\\2.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "agency/assets/img/portfolio/2.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\agency\\assets\\img\\portfolio\\2.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\portfolio\\3.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\portfolio\\3.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "agency/assets/img/portfolio/3.jpg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\agency\\assets\\img\\portfolio\\3.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\portfolio\\4.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\portfolio\\4.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "agency/assets/img/portfolio/4.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\agency\\assets\\img\\portfolio\\4.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\portfolio\\5.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\portfolio\\5.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "agency/assets/img/portfolio/5.jpg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\agency\\assets\\img\\portfolio\\5.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\portfolio\\6.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\portfolio\\6.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "agency/assets/img/portfolio/6.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\agency\\assets\\img\\portfolio\\6.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\team\\1.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\team\\1.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "agency/assets/img/team/1.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\agency\\assets\\img\\team\\1.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\team\\2.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\team\\2.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "agency/assets/img/team/2.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\agency\\assets\\img\\team\\2.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\team\\3.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\team\\3.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "agency/assets/img/team/3.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\agency\\assets\\img\\team\\3.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\css\\styles.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\css\\styles.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "agency/css/styles.css",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\agency\\css\\styles.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\js\\scripts.js",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\js\\scripts.js",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "agency/js/scripts.js",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\agency\\js\\scripts.js"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\favicon.ico",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\favicon.ico",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "assets/favicon.ico",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\favicon.ico"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\avataaars.svg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\avataaars.svg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "assets/img/avataaars.svg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\avataaars.svg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\portfolio\\cabin.png",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\portfolio\\cabin.png",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "assets/img/portfolio/cabin.png",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\cabin.png"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\portfolio\\cake.png",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\portfolio\\cake.png",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "assets/img/portfolio/cake.png",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\cake.png"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\portfolio\\circus.png",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\portfolio\\circus.png",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "assets/img/portfolio/circus.png",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\circus.png"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\portfolio\\game.png",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\portfolio\\game.png",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "assets/img/portfolio/game.png",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\game.png"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\portfolio\\safe.png",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\portfolio\\safe.png",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "assets/img/portfolio/safe.png",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\safe.png"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\portfolio\\submarine.png",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\portfolio\\submarine.png",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "assets/img/portfolio/submarine.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\portfolio\\submarine.png"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\css\\site.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\css\\site.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\css\\styles.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\css\\styles.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\favicon.ico",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\favicon.ico",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\css\\bootstrap.min.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\css\\bootstrap.min.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\css\\style.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\css\\style.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/css/style.css",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\css\\style.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\about-1.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\about-1.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/img/about-1.jpg",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\img\\about-1.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\about-2.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\about-2.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/img/about-2.jpg",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\img\\about-2.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\about-3.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\about-3.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/img/about-3.jpg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\img\\about-3.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\about-4.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\about-4.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/img/about-4.jpg",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\img\\about-4.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\carousel-1.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\carousel-1.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/img/carousel-1.jpg",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\img\\carousel-1.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\carousel-2.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\carousel-2.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/img/carousel-2.jpg",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\img\\carousel-2.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\com-logo-1.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\com-logo-1.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/img/com-logo-1.jpg",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\img\\com-logo-1.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\com-logo-2.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\com-logo-2.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/img/com-logo-2.jpg",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\img\\com-logo-2.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\com-logo-3.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\com-logo-3.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/img/com-logo-3.jpg",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\img\\com-logo-3.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\com-logo-4.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\com-logo-4.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/img/com-logo-4.jpg",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\img\\com-logo-4.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\com-logo-5.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\com-logo-5.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/img/com-logo-5.jpg",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\img\\com-logo-5.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\testimonial-1.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\testimonial-1.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/img/testimonial-1.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\img\\testimonial-1.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\testimonial-2.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\testimonial-2.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/img/testimonial-2.jpg",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\img\\testimonial-2.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\testimonial-3.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\testimonial-3.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/img/testimonial-3.jpg",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\img\\testimonial-3.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\testimonial-4.jpg",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\testimonial-4.jpg",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/img/testimonial-4.jpg",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\img\\testimonial-4.jpg"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\js\\main.js",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\js\\main.js",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/js/main.js",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\js\\main.js"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\animate\\animate.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\animate\\animate.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/lib/animate/animate.css",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\lib\\animate\\animate.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\animate\\animate.min.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\animate\\animate.min.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/lib/animate/animate.min.css",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\lib\\animate\\animate.min.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\easing\\easing.js",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\easing\\easing.js",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/lib/easing/easing.js",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\lib\\easing\\easing.js"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\easing\\easing.min.js",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\easing\\easing.min.js",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/lib/easing/easing.min.js",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\lib\\easing\\easing.min.js"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/lib/owlcarousel/assets/ajax-loader.gif",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/lib/owlcarousel/assets/owl.carousel.css",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/lib/owlcarousel/assets/owl.carousel.min.css",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/lib/owlcarousel/assets/owl.theme.default.css",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/lib/owlcarousel/assets/owl.theme.default.min.css",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/lib/owlcarousel/assets/owl.theme.green.css",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/lib/owlcarousel/assets/owl.theme.green.min.css",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/lib/owlcarousel/assets/owl.video.play.png",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\LICENSE",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\LICENSE",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/lib/owlcarousel/LICENSE",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\lib\\owlcarousel\\LICENSE"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\owl.carousel.js",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\owl.carousel.js",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/lib/owlcarousel/owl.carousel.js",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\owl.carousel.min.js",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/lib/owlcarousel/owl.carousel.min.js",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\waypoints\\links.php",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\waypoints\\links.php",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/lib/waypoints/links.php",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\lib\\waypoints\\links.php"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\waypoints\\waypoints.min.js",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\waypoints\\waypoints.min.js",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/lib/waypoints/waypoints.min.js",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\wow\\wow.js",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\wow\\wow.js",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/lib/wow/wow.js",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\lib\\wow\\wow.js"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\wow\\wow.min.js",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\wow\\wow.min.js",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/lib/wow/wow.min.js",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\lib\\wow\\wow.min.js"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap.scss",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_accordion.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_accordion.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_accordion.scss",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_alert.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_alert.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_alert.scss",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_badge.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_badge.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_badge.scss",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_breadcrumb.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_breadcrumb.scss",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_button-group.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_button-group.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_button-group.scss",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_buttons.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_buttons.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_buttons.scss",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_card.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_card.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_card.scss",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_carousel.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_carousel.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_carousel.scss",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_close.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_close.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_close.scss",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_containers.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_containers.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_containers.scss",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_dropdown.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_dropdown.scss",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_forms.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_forms.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_forms.scss",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_functions.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_functions.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_functions.scss",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_grid.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_grid.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_grid.scss",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_helpers.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_helpers.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_helpers.scss",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_images.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_images.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_images.scss",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_list-group.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_list-group.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_list-group.scss",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_mixins.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_mixins.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_mixins.scss",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_modal.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_modal.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_modal.scss",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_nav.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_nav.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_nav.scss",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_navbar.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_navbar.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_navbar.scss",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_offcanvas.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_offcanvas.scss",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_pagination.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_pagination.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_pagination.scss",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_popover.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_popover.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_popover.scss",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_progress.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_progress.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_progress.scss",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_reboot.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_reboot.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_reboot.scss",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_root.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_root.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_root.scss",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_spinners.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_spinners.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_spinners.scss",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_tables.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_tables.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_tables.scss",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_toasts.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_toasts.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_toasts.scss",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_tooltip.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_tooltip.scss",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_transitions.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_transitions.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_transitions.scss",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_type.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_type.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_type.scss",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_utilities.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_utilities.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_utilities.scss",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_variables.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_variables.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/_variables.scss",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\bootstrap.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/bootstrap.scss",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/bootstrap-grid.scss",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/bootstrap-reboot.scss",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/bootstrap-utilities.scss",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/forms/_floating-labels.scss",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/forms/_form-check.scss",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/forms/_form-control.scss",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/forms/_form-range.scss",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/forms/_form-select.scss",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/forms/_form-text.scss",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/forms/_input-group.scss",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_labels.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/forms/_labels.scss",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_validation.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/forms/_validation.scss",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/helpers/_clearfix.scss",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/helpers/_colored-links.scss",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_position.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/helpers/_position.scss",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/helpers/_ratio.scss",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/helpers/_stretched-link.scss",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/helpers/_text-truncation.scss",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/helpers/_visually-hidden.scss",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/mixins/_alert.scss",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/mixins/_border-radius.scss",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/mixins/_box-shadow.scss",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/mixins/_breakpoints.scss",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/mixins/_buttons.scss",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/mixins/_caret.scss",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/mixins/_clearfix.scss",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/mixins/_color-scheme.scss",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_container.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/mixins/_container.scss",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/mixins/_deprecate.scss",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/mixins/_forms.scss",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/mixins/_gradients.scss",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/mixins/_grid.scss",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_image.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/mixins/_image.scss",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/mixins/_list-group.scss",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/mixins/_lists.scss",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/mixins/_pagination.scss",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/mixins/_reset-text.scss",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/mixins/_resize.scss",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/mixins/_table-variants.scss",
       "AssetKind": "All",
@@ -2867,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/mixins/_text-truncate.scss",
       "AssetKind": "All",
@@ -2886,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/mixins/_transition.scss",
       "AssetKind": "All",
@@ -2905,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/mixins/_utilities.scss",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/mixins/_visually-hidden.scss",
       "AssetKind": "All",
@@ -2943,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\utilities\\_api.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/utilities/_api.scss",
       "AssetKind": "All",
@@ -2962,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "jobportal/scss/bootstrap/scss/vendor/_rfs.scss",
       "AssetKind": "All",
@@ -2981,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\jobportal\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\js\\scripts.js",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\js\\scripts.js",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "js/scripts.js",
       "AssetKind": "All",
@@ -3000,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\js\\scripts.js"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\js\\site.js",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\js\\site.js",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -3019,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -3038,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -3057,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -3076,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -3095,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -3114,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -3133,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -3152,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -3171,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -3190,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -3209,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -3228,10 +3228,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -3266,10 +3266,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -3285,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -3304,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -3323,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -3342,10 +3342,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -3361,10 +3361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -3380,10 +3380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -3399,10 +3399,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -3418,10 +3418,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -3437,10 +3437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -3456,10 +3456,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -3475,10 +3475,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -3494,10 +3494,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -3513,10 +3513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -3532,10 +3532,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -3551,10 +3551,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -3570,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -3589,10 +3589,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -3608,10 +3608,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -3627,10 +3627,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -3646,10 +3646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -3665,10 +3665,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -3684,10 +3684,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -3703,10 +3703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -3722,10 +3722,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -3741,10 +3741,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -3760,10 +3760,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -3779,10 +3779,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -3798,10 +3798,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -3817,10 +3817,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3836,10 +3836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3855,10 +3855,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -3874,10 +3874,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3893,10 +3893,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3912,10 +3912,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3931,10 +3931,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3950,10 +3950,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3969,10 +3969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3988,10 +3988,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -4007,10 +4007,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -4026,10 +4026,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -4045,10 +4045,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -4064,10 +4064,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -4083,10 +4083,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "App4",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
+      "ContentRoot": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\",
       "BasePath": "_content/App4",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

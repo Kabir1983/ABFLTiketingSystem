@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Students";
+}
+
+
+@if (ViewBag.msg!=null)
+{
+    <h4 class="alert alert-danger">@ViewBag.msg</h4>
+}
+else
+{
+    <h4 class="alert alert-primary">Student Info</h4>
+    <hr />
+    <h2 class="alert alert-success">@ViewBag.org</h2>
+    <br />
+    <h2 class="alert alert-warning">@ViewBag.course</h2>
+    <br />
+    <h2 class="alert alert-secondary">@ViewBag.batchno</h2>
+}

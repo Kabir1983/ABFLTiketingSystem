@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABFL.TicketSystemApp", "ABFL.TicketSystemApp\ABFL.TicketSystemApp.csproj", "{6066180A-1F2C-459A-A0A7-25F1A1C15932}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABFL.Common", "ABFL.Common\ABFL.Common.csproj", "{218114D7-4C4A-4D95-88D3-607F949A872E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6066180A-1F2C-459A-A0A7-25F1A1C15932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6066180A-1F2C-459A-A0A7-25F1A1C15932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6066180A-1F2C-459A-A0A7-25F1A1C15932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6066180A-1F2C-459A-A0A7-25F1A1C15932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{218114D7-4C4A-4D95-88D3-607F949A872E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218114D7-4C4A-4D95-88D3-607F949A872E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218114D7-4C4A-4D95-88D3-607F949A872E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218114D7-4C4A-4D95-88D3-607F949A872E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {145E47F3-0AC4-4A51-9096-0B35EB6A0729}
+	EndGlobalSection
+EndGlobal

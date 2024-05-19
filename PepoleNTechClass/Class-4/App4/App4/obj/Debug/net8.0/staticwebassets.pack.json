@@ -1,859 +1,859 @@
 {
   "Files": [
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\App4.bundle.scp.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\App4.bundle.scp.css",
       "PackagePath": "staticwebassets\\App4.bundle.scp.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\favicon.ico",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\favicon.ico",
       "PackagePath": "staticwebassets\\agency\\assets\\favicon.ico"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\about\\1.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\about\\1.jpg",
       "PackagePath": "staticwebassets\\agency\\assets\\img\\about\\1.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\about\\2.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\about\\2.jpg",
       "PackagePath": "staticwebassets\\agency\\assets\\img\\about\\2.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\about\\3.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\about\\3.jpg",
       "PackagePath": "staticwebassets\\agency\\assets\\img\\about\\3.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\about\\4.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\about\\4.jpg",
       "PackagePath": "staticwebassets\\agency\\assets\\img\\about\\4.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\close-icon.svg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\close-icon.svg",
       "PackagePath": "staticwebassets\\agency\\assets\\img\\close-icon.svg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\header-bg.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\header-bg.jpg",
       "PackagePath": "staticwebassets\\agency\\assets\\img\\header-bg.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\logos\\facebook.svg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\logos\\facebook.svg",
       "PackagePath": "staticwebassets\\agency\\assets\\img\\logos\\facebook.svg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\logos\\google.svg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\logos\\google.svg",
       "PackagePath": "staticwebassets\\agency\\assets\\img\\logos\\google.svg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\logos\\ibm.svg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\logos\\ibm.svg",
       "PackagePath": "staticwebassets\\agency\\assets\\img\\logos\\ibm.svg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\logos\\microsoft.svg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\logos\\microsoft.svg",
       "PackagePath": "staticwebassets\\agency\\assets\\img\\logos\\microsoft.svg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\map-image.png",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\map-image.png",
       "PackagePath": "staticwebassets\\agency\\assets\\img\\map-image.png"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\navbar-logo.svg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\navbar-logo.svg",
       "PackagePath": "staticwebassets\\agency\\assets\\img\\navbar-logo.svg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\portfolio\\1.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\portfolio\\1.jpg",
       "PackagePath": "staticwebassets\\agency\\assets\\img\\portfolio\\1.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\portfolio\\2.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\portfolio\\2.jpg",
       "PackagePath": "staticwebassets\\agency\\assets\\img\\portfolio\\2.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\portfolio\\3.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\portfolio\\3.jpg",
       "PackagePath": "staticwebassets\\agency\\assets\\img\\portfolio\\3.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\portfolio\\4.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\portfolio\\4.jpg",
       "PackagePath": "staticwebassets\\agency\\assets\\img\\portfolio\\4.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\portfolio\\5.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\portfolio\\5.jpg",
       "PackagePath": "staticwebassets\\agency\\assets\\img\\portfolio\\5.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\portfolio\\6.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\portfolio\\6.jpg",
       "PackagePath": "staticwebassets\\agency\\assets\\img\\portfolio\\6.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\team\\1.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\team\\1.jpg",
       "PackagePath": "staticwebassets\\agency\\assets\\img\\team\\1.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\team\\2.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\team\\2.jpg",
       "PackagePath": "staticwebassets\\agency\\assets\\img\\team\\2.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\team\\3.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\assets\\img\\team\\3.jpg",
       "PackagePath": "staticwebassets\\agency\\assets\\img\\team\\3.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\css\\styles.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\css\\styles.css",
       "PackagePath": "staticwebassets\\agency\\css\\styles.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\js\\scripts.js",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\agency\\js\\scripts.js",
       "PackagePath": "staticwebassets\\agency\\js\\scripts.js"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\favicon.ico",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\favicon.ico",
       "PackagePath": "staticwebassets\\assets\\favicon.ico"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\avataaars.svg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\avataaars.svg",
       "PackagePath": "staticwebassets\\assets\\img\\avataaars.svg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\portfolio\\cabin.png",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\portfolio\\cabin.png",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\cabin.png"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\portfolio\\cake.png",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\portfolio\\cake.png",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\cake.png"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\portfolio\\circus.png",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\portfolio\\circus.png",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\circus.png"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\portfolio\\game.png",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\portfolio\\game.png",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\game.png"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\portfolio\\safe.png",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\portfolio\\safe.png",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\safe.png"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\portfolio\\submarine.png",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\assets\\img\\portfolio\\submarine.png",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\submarine.png"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\css\\site.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\css\\styles.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\css\\styles.css",
       "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\favicon.ico",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\css\\bootstrap.min.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\jobportal\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\css\\style.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\css\\style.css",
       "PackagePath": "staticwebassets\\jobportal\\css\\style.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\about-1.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\about-1.jpg",
       "PackagePath": "staticwebassets\\jobportal\\img\\about-1.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\about-2.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\about-2.jpg",
       "PackagePath": "staticwebassets\\jobportal\\img\\about-2.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\about-3.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\about-3.jpg",
       "PackagePath": "staticwebassets\\jobportal\\img\\about-3.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\about-4.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\about-4.jpg",
       "PackagePath": "staticwebassets\\jobportal\\img\\about-4.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\carousel-1.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\carousel-1.jpg",
       "PackagePath": "staticwebassets\\jobportal\\img\\carousel-1.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\carousel-2.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\carousel-2.jpg",
       "PackagePath": "staticwebassets\\jobportal\\img\\carousel-2.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\com-logo-1.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\com-logo-1.jpg",
       "PackagePath": "staticwebassets\\jobportal\\img\\com-logo-1.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\com-logo-2.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\com-logo-2.jpg",
       "PackagePath": "staticwebassets\\jobportal\\img\\com-logo-2.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\com-logo-3.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\com-logo-3.jpg",
       "PackagePath": "staticwebassets\\jobportal\\img\\com-logo-3.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\com-logo-4.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\com-logo-4.jpg",
       "PackagePath": "staticwebassets\\jobportal\\img\\com-logo-4.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\com-logo-5.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\com-logo-5.jpg",
       "PackagePath": "staticwebassets\\jobportal\\img\\com-logo-5.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\testimonial-1.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\testimonial-1.jpg",
       "PackagePath": "staticwebassets\\jobportal\\img\\testimonial-1.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\testimonial-2.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\testimonial-2.jpg",
       "PackagePath": "staticwebassets\\jobportal\\img\\testimonial-2.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\testimonial-3.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\testimonial-3.jpg",
       "PackagePath": "staticwebassets\\jobportal\\img\\testimonial-3.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\testimonial-4.jpg",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\img\\testimonial-4.jpg",
       "PackagePath": "staticwebassets\\jobportal\\img\\testimonial-4.jpg"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\js\\main.js",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\js\\main.js",
       "PackagePath": "staticwebassets\\jobportal\\js\\main.js"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\animate\\animate.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\animate\\animate.css",
       "PackagePath": "staticwebassets\\jobportal\\lib\\animate\\animate.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\animate\\animate.min.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\animate\\animate.min.css",
       "PackagePath": "staticwebassets\\jobportal\\lib\\animate\\animate.min.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\easing\\easing.js",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\easing\\easing.js",
       "PackagePath": "staticwebassets\\jobportal\\lib\\easing\\easing.js"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\easing\\easing.min.js",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\easing\\easing.min.js",
       "PackagePath": "staticwebassets\\jobportal\\lib\\easing\\easing.min.js"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\LICENSE",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\LICENSE",
       "PackagePath": "staticwebassets\\jobportal\\lib\\owlcarousel"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\jobportal\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "PackagePath": "staticwebassets\\jobportal\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\jobportal\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "PackagePath": "staticwebassets\\jobportal\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\jobportal\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "PackagePath": "staticwebassets\\jobportal\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "PackagePath": "staticwebassets\\jobportal\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "PackagePath": "staticwebassets\\jobportal\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\owl.carousel.js",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\owl.carousel.js",
       "PackagePath": "staticwebassets\\jobportal\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\owlcarousel\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\jobportal\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\waypoints\\links.php",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\waypoints\\links.php",
       "PackagePath": "staticwebassets\\jobportal\\lib\\waypoints\\links.php"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\waypoints\\waypoints.min.js",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\waypoints\\waypoints.min.js",
       "PackagePath": "staticwebassets\\jobportal\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\wow\\wow.js",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\wow\\wow.js",
       "PackagePath": "staticwebassets\\jobportal\\lib\\wow\\wow.js"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\wow\\wow.min.js",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\lib\\wow\\wow.min.js",
       "PackagePath": "staticwebassets\\jobportal\\lib\\wow\\wow.min.js"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_accordion.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_accordion.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_alert.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_alert.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_badge.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_badge.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_button-group.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_button-group.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_buttons.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_buttons.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_card.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_card.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_carousel.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_carousel.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_close.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_close.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_containers.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_containers.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_dropdown.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_forms.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_forms.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_functions.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_functions.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_grid.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_grid.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_helpers.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_helpers.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_images.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_images.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_list-group.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_list-group.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_mixins.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_modal.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_modal.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_nav.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_nav.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_navbar.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_navbar.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_offcanvas.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_pagination.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_pagination.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_popover.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_popover.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_progress.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_progress.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_reboot.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_reboot.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_root.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_root.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_spinners.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_spinners.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_tables.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_tables.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_toasts.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_toasts.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_tooltip.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_transitions.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_transitions.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_type.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_type.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_utilities.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_utilities.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_variables.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_labels.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\forms\\_validation.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_position.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_container.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_image.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\utilities\\_api.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\jobportal\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\jobportal\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\js\\scripts.js",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\js\\scripts.js",
       "PackagePath": "staticwebassets\\js\\scripts.js"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\js\\site.js",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\SourceControl\\GitHubProject\\PepoleNTechClass\\Class-4\\App4\\App4\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
