@@ -1,0 +1,25 @@
+﻿@inherits LayoutComponentBase
+
+<PageTitle>EMP Pro</PageTitle>
+
+
+
+<div class="page">
+    <div class="sidebar">
+        <NavMenu />
+    </div>
+    <AuthorizeView>
+        <Authorized>
+            <main>
+                <article class="content px-4">
+                    @Body
+                </article>
+            </main>
+        </Authorized>
+        <NotAuthorized>
+            <h2 class="alert alert-primary">Not Autorized.</h2>
+            <RedirectToLogin />
+        </NotAuthorized>
+    </AuthorizeView>
+</div>
+

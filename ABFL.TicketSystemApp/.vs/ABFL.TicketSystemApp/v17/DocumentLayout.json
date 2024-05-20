@@ -90,8 +90,7 @@
               "RelativeToolTip": "ABFL.Common\\FildTitle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:13:50.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T14:13:50.157Z"
             },
             {
               "$type": "Document",
@@ -103,8 +102,7 @@
               "RelativeToolTip": "ABFL.Common\\Utility.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAqwB4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:12:41.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T14:12:41.185Z"
             },
             {
               "$type": "Document",
@@ -116,8 +114,7 @@
               "RelativeToolTip": "ABFL.Common\\Sha1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:12:34.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T14:12:34.604Z"
             },
             {
               "$type": "Document",
@@ -129,8 +126,7 @@
               "RelativeToolTip": "ABFL.Common\\Extention.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:12:25.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T14:12:25.974Z"
             },
             {
               "$type": "Document",
@@ -142,8 +138,7 @@
               "RelativeToolTip": "ABFL.Common\\CommonCookie.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:11:56.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T14:11:56.913Z"
             },
             {
               "$type": "Document",
@@ -155,8 +150,7 @@
               "RelativeToolTip": "ABFL.TicketSystemApp\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAACCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T13:23:46.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T13:23:46.023Z"
             },
             {
               "$type": "Document",
@@ -168,8 +162,7 @@
               "RelativeToolTip": "ABFL.TicketSystemApp\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T11:50:27.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T11:50:27.653Z"
             },
             {
               "$type": "Document",
@@ -181,8 +174,7 @@
               "RelativeToolTip": "ABFL.TicketSystemApp\\Views\\MistakeType\\Create.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T13:48:29.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T13:48:29.128Z"
             },
             {
               "$type": "Document",
@@ -192,7 +184,7 @@
               "RelativeDocumentMoniker": "ABFL.TicketSystemApp\\Models\\AddDailyMistake.cs",
               "ToolTip": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Models\\AddDailyMistake.cs",
               "RelativeToolTip": "ABFL.TicketSystemApp\\Models\\AddDailyMistake.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-19T12:09:08.754Z",
               "EditorCaption": ""
@@ -207,8 +199,7 @@
               "RelativeToolTip": "ABFL.Common\\HashValue.cs",
               "ViewState": "AQIAAMEAAAAAAAAAAAAgwH0AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:14:37.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T14:14:37.645Z"
             },
             {
               "$type": "Document",
@@ -220,8 +211,7 @@
               "RelativeToolTip": "ABFL.TicketSystemApp\\Controllers\\MistakeTypeController.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAkwD4AAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T13:23:27.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T13:23:27.846Z"
             },
             {
               "$type": "Document",
@@ -233,8 +223,7 @@
               "RelativeToolTip": "ABFL.TicketSystemApp\\Models\\SetMistakeType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T12:09:10.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T12:09:10.861Z"
             },
             {
               "$type": "Document",
@@ -246,8 +235,7 @@
               "RelativeToolTip": "ABFL.TicketSystemApp\\Views\\MistakeType\\Index.cshtml",
               "ViewState": "AQIAABQAAAAAAAAAAAAAACYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T13:51:34.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T13:51:34.858Z"
             },
             {
               "$type": "Document",
@@ -259,8 +247,7 @@
               "RelativeToolTip": "ABFL.TicketSystemApp\\Views\\MistakeType\\Edit.cshtml",
               "ViewState": "AQIAABsAAAAAAAAAAAAAAB4AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T13:54:17.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T13:54:17.214Z"
             },
             {
               "$type": "Document",
@@ -272,21 +259,19 @@
               "RelativeToolTip": "ABFL.TicketSystemApp\\Models\\AkijScmsdbContext.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAA5wBYAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T12:07:43.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T12:07:43.121Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "ABFL.TicketSystemApp",
+              "Title": "ABFL.TicketSystemApp.csproj",
               "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj",
               "RelativeDocumentMoniker": "ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj",
               "ToolTip": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj",
               "RelativeToolTip": "ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-19T11:54:57.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T11:54:57.173Z"
             }
           ]
         }
