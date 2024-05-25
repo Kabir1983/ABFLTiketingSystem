@@ -1,69 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\",
+  "WorkspaceRootPath": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|d:\\sourcecontrol\\githubproject\\abfl.ticketsystemapp\\abfl.ticketsystemapp\\models\\adddailymistake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|solutionrelative:abfl.ticketsystemapp\\models\\adddailymistake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|d:\\sourcecontrol\\githubproject\\abfl.ticketsystemapp\\abfl.ticketsystemapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|solutionrelative:abfl.ticketsystemapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{218114D7-4C4A-4D95-88D3-607F949A872E}|ABFL.Common\\ABFL.Common.csproj|d:\\sourcecontrol\\githubproject\\abfl.ticketsystemapp\\abfl.common\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{218114D7-4C4A-4D95-88D3-607F949A872E}|ABFL.Common\\ABFL.Common.csproj|solutionrelative:abfl.common\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{218114D7-4C4A-4D95-88D3-607F949A872E}|ABFL.Common\\ABFL.Common.csproj|d:\\sourcecontrol\\githubproject\\abfl.ticketsystemapp\\abfl.common\\sha1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{218114D7-4C4A-4D95-88D3-607F949A872E}|ABFL.Common\\ABFL.Common.csproj|solutionrelative:abfl.common\\sha1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{218114D7-4C4A-4D95-88D3-607F949A872E}|ABFL.Common\\ABFL.Common.csproj|d:\\sourcecontrol\\githubproject\\abfl.ticketsystemapp\\abfl.common\\hashvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{218114D7-4C4A-4D95-88D3-607F949A872E}|ABFL.Common\\ABFL.Common.csproj|solutionrelative:abfl.common\\hashvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{218114D7-4C4A-4D95-88D3-607F949A872E}|ABFL.Common\\ABFL.Common.csproj|d:\\sourcecontrol\\githubproject\\abfl.ticketsystemapp\\abfl.common\\fildtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{218114D7-4C4A-4D95-88D3-607F949A872E}|ABFL.Common\\ABFL.Common.csproj|solutionrelative:abfl.common\\fildtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{218114D7-4C4A-4D95-88D3-607F949A872E}|ABFL.Common\\ABFL.Common.csproj|d:\\sourcecontrol\\githubproject\\abfl.ticketsystemapp\\abfl.common\\extention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{218114D7-4C4A-4D95-88D3-607F949A872E}|ABFL.Common\\ABFL.Common.csproj|solutionrelative:abfl.common\\extention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{218114D7-4C4A-4D95-88D3-607F949A872E}|ABFL.Common\\ABFL.Common.csproj|d:\\sourcecontrol\\githubproject\\abfl.ticketsystemapp\\abfl.common\\commoncookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{218114D7-4C4A-4D95-88D3-607F949A872E}|ABFL.Common\\ABFL.Common.csproj|solutionrelative:abfl.common\\commoncookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|d:\\sourcecontrol\\githubproject\\abfl.ticketsystemapp\\abfl.ticketsystemapp\\controllers\\mistaketypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|solutionrelative:abfl.ticketsystemapp\\controllers\\mistaketypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|d:\\sourcecontrol\\githubproject\\abfl.ticketsystemapp\\abfl.ticketsystemapp\\views\\mistaketype\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|solutionrelative:abfl.ticketsystemapp\\views\\mistaketype\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|d:\\sourcecontrol\\githubproject\\abfl.ticketsystemapp\\abfl.ticketsystemapp\\views\\mistaketype\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|solutionrelative:abfl.ticketsystemapp\\views\\mistaketype\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|d:\\sourcecontrol\\githubproject\\abfl.ticketsystemapp\\abfl.ticketsystemapp\\views\\mistaketype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|solutionrelative:abfl.ticketsystemapp\\views\\mistaketype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|d:\\sourcecontrol\\githubproject\\abfl.ticketsystemapp\\abfl.ticketsystemapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|solutionrelative:abfl.ticketsystemapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|d:\\sourcecontrol\\githubproject\\abfl.ticketsystemapp\\abfl.ticketsystemapp\\models\\setmistaketype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|solutionrelative:abfl.ticketsystemapp\\models\\setmistaketype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|d:\\sourcecontrol\\githubproject\\abfl.ticketsystemapp\\abfl.ticketsystemapp\\models\\akijscmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\abfl.ticketsystemapp\\abfl.ticketsystemapp\\models\\akijscmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|solutionrelative:abfl.ticketsystemapp\\models\\akijscmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|d:\\sourcecontrol\\githubproject\\abfl.ticketsystemapp\\abfl.ticketsystemapp\\abfl.ticketsystemapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\abfl.ticketsystemapp\\abfl.ticketsystemapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|solutionrelative:abfl.ticketsystemapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\abfl.ticketsystemapp\\abfl.ticketsystemapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|solutionrelative:abfl.ticketsystemapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\abfl.ticketsystemapp\\abfl.ticketsystemapp\\models\\adddailymistake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|solutionrelative:abfl.ticketsystemapp\\models\\adddailymistake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218114D7-4C4A-4D95-88D3-607F949A872E}|ABFL.Common\\ABFL.Common.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\abfl.ticketsystemapp\\abfl.common\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218114D7-4C4A-4D95-88D3-607F949A872E}|ABFL.Common\\ABFL.Common.csproj|solutionrelative:abfl.common\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218114D7-4C4A-4D95-88D3-607F949A872E}|ABFL.Common\\ABFL.Common.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\abfl.ticketsystemapp\\abfl.common\\sha1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218114D7-4C4A-4D95-88D3-607F949A872E}|ABFL.Common\\ABFL.Common.csproj|solutionrelative:abfl.common\\sha1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218114D7-4C4A-4D95-88D3-607F949A872E}|ABFL.Common\\ABFL.Common.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\abfl.ticketsystemapp\\abfl.common\\hashvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218114D7-4C4A-4D95-88D3-607F949A872E}|ABFL.Common\\ABFL.Common.csproj|solutionrelative:abfl.common\\hashvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218114D7-4C4A-4D95-88D3-607F949A872E}|ABFL.Common\\ABFL.Common.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\abfl.ticketsystemapp\\abfl.common\\fildtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218114D7-4C4A-4D95-88D3-607F949A872E}|ABFL.Common\\ABFL.Common.csproj|solutionrelative:abfl.common\\fildtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218114D7-4C4A-4D95-88D3-607F949A872E}|ABFL.Common\\ABFL.Common.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\abfl.ticketsystemapp\\abfl.common\\extention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218114D7-4C4A-4D95-88D3-607F949A872E}|ABFL.Common\\ABFL.Common.csproj|solutionrelative:abfl.common\\extention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218114D7-4C4A-4D95-88D3-607F949A872E}|ABFL.Common\\ABFL.Common.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\abfl.ticketsystemapp\\abfl.common\\commoncookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218114D7-4C4A-4D95-88D3-607F949A872E}|ABFL.Common\\ABFL.Common.csproj|solutionrelative:abfl.common\\commoncookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\abfl.ticketsystemapp\\abfl.ticketsystemapp\\controllers\\mistaketypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|solutionrelative:abfl.ticketsystemapp\\controllers\\mistaketypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\abfl.ticketsystemapp\\abfl.ticketsystemapp\\views\\mistaketype\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|solutionrelative:abfl.ticketsystemapp\\views\\mistaketype\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\abfl.ticketsystemapp\\abfl.ticketsystemapp\\views\\mistaketype\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|solutionrelative:abfl.ticketsystemapp\\views\\mistaketype\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\abfl.ticketsystemapp\\abfl.ticketsystemapp\\views\\mistaketype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|solutionrelative:abfl.ticketsystemapp\\views\\mistaketype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\abfl.ticketsystemapp\\abfl.ticketsystemapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|solutionrelative:abfl.ticketsystemapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\abfl.ticketsystemapp\\abfl.ticketsystemapp\\models\\setmistaketype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|solutionrelative:abfl.ticketsystemapp\\models\\setmistaketype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\abfl.ticketsystemapp\\abfl.ticketsystemapp\\abfl.ticketsystemapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{6066180A-1F2C-459A-A0A7-25F1A1C15932}|ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj|solutionrelative:abfl.ticketsystemapp\\abfl.ticketsystemapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -74,43 +78,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ABFL.TicketSystemApp\\appsettings.json",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\appsettings.json",
+              "RelativeToolTip": "ABFL.TicketSystemApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T12:31:36.005Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "FildTitle.cs",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.Common\\FildTitle.cs",
-              "RelativeDocumentMoniker": "ABFL.Common\\FildTitle.cs",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.Common\\FildTitle.cs",
-              "RelativeToolTip": "ABFL.Common\\FildTitle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:13:50.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Utility.cs",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.Common\\Utility.cs",
-              "RelativeDocumentMoniker": "ABFL.Common\\Utility.cs",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.Common\\Utility.cs",
-              "RelativeToolTip": "ABFL.Common\\Utility.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAqwB4AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:12:41.185Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Sha1.cs",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.Common\\Sha1.cs",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.Common\\Sha1.cs",
               "RelativeDocumentMoniker": "ABFL.Common\\Sha1.cs",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.Common\\Sha1.cs",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.Common\\Sha1.cs",
               "RelativeToolTip": "ABFL.Common\\Sha1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -118,11 +107,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Extention.cs",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.Common\\Extention.cs",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.Common\\Extention.cs",
               "RelativeDocumentMoniker": "ABFL.Common\\Extention.cs",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.Common\\Extention.cs",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.Common\\Extention.cs",
               "RelativeToolTip": "ABFL.Common\\Extention.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -130,11 +119,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "CommonCookie.cs",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.Common\\CommonCookie.cs",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.Common\\CommonCookie.cs",
               "RelativeDocumentMoniker": "ABFL.Common\\CommonCookie.cs",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.Common\\CommonCookie.cs",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.Common\\CommonCookie.cs",
               "RelativeToolTip": "ABFL.Common\\CommonCookie.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -142,11 +131,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ABFL.TicketSystemApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ABFL.TicketSystemApp\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAACCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -156,21 +145,22 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Program.cs",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Program.cs",
               "RelativeDocumentMoniker": "ABFL.TicketSystemApp\\Program.cs",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Program.cs",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Program.cs",
               "RelativeToolTip": "ABFL.TicketSystemApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T11:50:27.653Z"
+              "WhenOpened": "2024-05-19T11:50:27.653Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Views\\MistakeType\\Create.cshtml",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Views\\MistakeType\\Create.cshtml",
               "RelativeDocumentMoniker": "ABFL.TicketSystemApp\\Views\\MistakeType\\Create.cshtml",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Views\\MistakeType\\Create.cshtml",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Views\\MistakeType\\Create.cshtml",
               "RelativeToolTip": "ABFL.TicketSystemApp\\Views\\MistakeType\\Create.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -178,24 +168,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AddDailyMistake.cs",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Models\\AddDailyMistake.cs",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Models\\AddDailyMistake.cs",
               "RelativeDocumentMoniker": "ABFL.TicketSystemApp\\Models\\AddDailyMistake.cs",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Models\\AddDailyMistake.cs",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Models\\AddDailyMistake.cs",
               "RelativeToolTip": "ABFL.TicketSystemApp\\Models\\AddDailyMistake.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-19T12:09:08.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "HashValue.cs",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.Common\\HashValue.cs",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.Common\\HashValue.cs",
               "RelativeDocumentMoniker": "ABFL.Common\\HashValue.cs",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.Common\\HashValue.cs",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.Common\\HashValue.cs",
               "RelativeToolTip": "ABFL.Common\\HashValue.cs",
               "ViewState": "AQIAAMEAAAAAAAAAAAAgwH0AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -203,11 +193,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "MistakeTypeController.cs",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Controllers\\MistakeTypeController.cs",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Controllers\\MistakeTypeController.cs",
               "RelativeDocumentMoniker": "ABFL.TicketSystemApp\\Controllers\\MistakeTypeController.cs",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Controllers\\MistakeTypeController.cs",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Controllers\\MistakeTypeController.cs",
               "RelativeToolTip": "ABFL.TicketSystemApp\\Controllers\\MistakeTypeController.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAkwD4AAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -215,11 +205,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
+              "Title": "AkijScmsdbContext.cs",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Models\\AkijScmsdbContext.cs",
+              "RelativeDocumentMoniker": "ABFL.TicketSystemApp\\Models\\AkijScmsdbContext.cs",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Models\\AkijScmsdbContext.cs",
+              "RelativeToolTip": "ABFL.TicketSystemApp\\Models\\AkijScmsdbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAACRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:07:43.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.Common\\Utility.cs",
+              "RelativeDocumentMoniker": "ABFL.Common\\Utility.cs",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.Common\\Utility.cs",
+              "RelativeToolTip": "ABFL.Common\\Utility.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:12:41.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FildTitle.cs",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.Common\\FildTitle.cs",
+              "RelativeDocumentMoniker": "ABFL.Common\\FildTitle.cs",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.Common\\FildTitle.cs",
+              "RelativeToolTip": "ABFL.Common\\FildTitle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:13:50.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "SetMistakeType.cs",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Models\\SetMistakeType.cs",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Models\\SetMistakeType.cs",
               "RelativeDocumentMoniker": "ABFL.TicketSystemApp\\Models\\SetMistakeType.cs",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Models\\SetMistakeType.cs",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Models\\SetMistakeType.cs",
               "RelativeToolTip": "ABFL.TicketSystemApp\\Models\\SetMistakeType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -227,11 +254,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Views\\MistakeType\\Index.cshtml",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Views\\MistakeType\\Index.cshtml",
               "RelativeDocumentMoniker": "ABFL.TicketSystemApp\\Views\\MistakeType\\Index.cshtml",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Views\\MistakeType\\Index.cshtml",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Views\\MistakeType\\Index.cshtml",
               "RelativeToolTip": "ABFL.TicketSystemApp\\Views\\MistakeType\\Index.cshtml",
               "ViewState": "AQIAABQAAAAAAAAAAAAAACYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -239,11 +266,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Views\\MistakeType\\Edit.cshtml",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Views\\MistakeType\\Edit.cshtml",
               "RelativeDocumentMoniker": "ABFL.TicketSystemApp\\Views\\MistakeType\\Edit.cshtml",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Views\\MistakeType\\Edit.cshtml",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Views\\MistakeType\\Edit.cshtml",
               "RelativeToolTip": "ABFL.TicketSystemApp\\Views\\MistakeType\\Edit.cshtml",
               "ViewState": "AQIAABsAAAAAAAAAAAAAAB4AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -251,23 +278,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AkijScmsdbContext.cs",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Models\\AkijScmsdbContext.cs",
-              "RelativeDocumentMoniker": "ABFL.TicketSystemApp\\Models\\AkijScmsdbContext.cs",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\Models\\AkijScmsdbContext.cs",
-              "RelativeToolTip": "ABFL.TicketSystemApp\\Models\\AkijScmsdbContext.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAA5wBYAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T12:07:43.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ABFL.TicketSystemApp.csproj",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj",
               "RelativeDocumentMoniker": "ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj",
               "RelativeToolTip": "ABFL.TicketSystemApp\\ABFL.TicketSystemApp.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

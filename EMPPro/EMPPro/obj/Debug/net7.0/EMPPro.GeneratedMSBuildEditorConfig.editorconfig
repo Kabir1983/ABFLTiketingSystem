@@ -9,59 +9,67 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EMPPro
 build_property.RootNamespace = EMPPro
-build_property.ProjectDir = D:\SourceControl\GitHubProject\EMPPro\EMPPro\
+build_property.ProjectDir = E:\Software Development\GitHubProject\ABFLTiketingSystem\EMPPro\EMPPro\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\SourceControl\GitHubProject\EMPPro\EMPPro
+build_property.MSBuildProjectDirectory = E:\Software Development\GitHubProject\ABFLTiketingSystem\EMPPro\EMPPro
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/SourceControl/GitHubProject/EMPPro/EMPPro/App.razor]
+[E:/Software Development/GitHubProject/ABFLTiketingSystem/EMPPro/EMPPro/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SourceControl/GitHubProject/EMPPro/EMPPro/Components/RedirectToLogin.razor]
+[E:/Software Development/GitHubProject/ABFLTiketingSystem/EMPPro/EMPPro/Components/RedirectToLogin.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSZWRpcmVjdFRvTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SourceControl/GitHubProject/EMPPro/EMPPro/Pages/Index.razor]
+[E:/Software Development/GitHubProject/ABFLTiketingSystem/EMPPro/EMPPro/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SourceControl/GitHubProject/EMPPro/EMPPro/Shared/SurveyPrompt.razor]
+[E:/Software Development/GitHubProject/ABFLTiketingSystem/EMPPro/EMPPro/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SourceControl/GitHubProject/EMPPro/EMPPro/_Imports.razor]
+[E:/Software Development/GitHubProject/ABFLTiketingSystem/EMPPro/EMPPro/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SourceControl/GitHubProject/EMPPro/EMPPro/Shared/MainLayout.razor]
+[E:/Software Development/GitHubProject/ABFLTiketingSystem/EMPPro/EMPPro/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-8f4ep1sxz9
 
-[D:/SourceControl/GitHubProject/EMPPro/EMPPro/Shared/NavMenu.razor]
+[E:/Software Development/GitHubProject/ABFLTiketingSystem/EMPPro/EMPPro/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-dt9b01hq2l
 
-[D:/SourceControl/GitHubProject/EMPPro/EMPPro/Areas/Identity/Pages/Account/Login.cshtml]
+[E:/Software Development/GitHubProject/ABFLTiketingSystem/EMPPro/EMPPro/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SourceControl/GitHubProject/EMPPro/EMPPro/Areas/Identity/Pages/Account/Register.cshtml]
+[E:/Software Development/GitHubProject/ABFLTiketingSystem/EMPPro/EMPPro/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Software Development/GitHubProject/ABFLTiketingSystem/EMPPro/EMPPro/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SourceControl/GitHubProject/EMPPro/EMPPro/Areas/Identity/Pages/_IdentityLayout.cshtml]
+[E:/Software Development/GitHubProject/ABFLTiketingSystem/EMPPro/EMPPro/Areas/Identity/Pages/_IdentityLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX0lkZW50aXR5TGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SourceControl/GitHubProject/EMPPro/EMPPro/Areas/Identity/Pages/_ViewImports.cshtml]
+[E:/Software Development/GitHubProject/ABFLTiketingSystem/EMPPro/EMPPro/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SourceControl/GitHubProject/EMPPro/EMPPro/Pages/_Host.cshtml]
+[E:/Software Development/GitHubProject/ABFLTiketingSystem/EMPPro/EMPPro/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Software Development/GitHubProject/ABFLTiketingSystem/EMPPro/EMPPro/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

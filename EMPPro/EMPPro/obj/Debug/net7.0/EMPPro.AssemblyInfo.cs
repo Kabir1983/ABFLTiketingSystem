@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EMPPro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f3194f439e220f1e0d665ef70f594c7f6d8e5b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7b169c74dae3e093c1a11e89adeb2c616ba9a34")]
 [assembly: System.Reflection.AssemblyProductAttribute("EMPPro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EMPPro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

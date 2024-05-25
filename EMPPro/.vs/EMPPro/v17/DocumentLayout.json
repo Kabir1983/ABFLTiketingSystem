@@ -1,62 +1,90 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\SourceControl\\GitHubProject\\EMPPro\\",
+  "WorkspaceRootPath": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|d:\\sourcecontrol\\githubproject\\emppro\\emppro\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\emppro\\emppro\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|d:\\sourcecontrol\\githubproject\\emppro\\emppro\\areas\\identity\\pages\\_identitylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\areas\\identity\\pages\\_identitylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\emppro\\emppro\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|d:\\sourcecontrol\\githubproject\\emppro\\emppro\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\emppro\\emppro\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|d:\\sourcecontrol\\githubproject\\emppro\\emppro\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|d:\\sourcecontrol\\githubproject\\emppro\\emppro\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|d:\\sourcecontrol\\githubproject\\emppro\\emppro\\components\\redirecttologin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\components\\redirecttologin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|d:\\sourcecontrol\\githubproject\\emppro\\emppro\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|d:\\sourcecontrol\\githubproject\\emppro\\emppro\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\emppro\\emppro\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|d:\\sourcecontrol\\githubproject\\emppro\\emppro\\emppro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\emppro\\emppro\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\emppro\\emppro\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\emppro\\emppro\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\emppro\\emppro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\emppro\\emppro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\emppro\\emppro\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\emppro\\emppro\\areas\\identity\\pages\\_identitylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\areas\\identity\\pages\\_identitylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\emppro\\emppro\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\emppro\\emppro\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\emppro\\emppro\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\emppro\\emppro\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\emppro\\emppro\\components\\redirecttologin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\components\\redirecttologin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\emppro\\emppro\\emppro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\emppro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|d:\\sourcecontrol\\githubproject\\emppro\\emppro\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\emppro\\emppro\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|d:\\sourcecontrol\\githubproject\\emppro\\emppro\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\emppro\\emppro\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\shared\\surveyprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|d:\\sourcecontrol\\githubproject\\emppro\\emppro\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\emppro\\emppro\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|d:\\sourcecontrol\\githubproject\\emppro\\emppro\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|e:\\software development\\githubproject\\abfltiketingsystem\\emppro\\emppro\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|d:\\sourcecontrol\\githubproject\\emppro\\emppro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6B6F493-E879-41AF-8834-DF3C909C8106}|EMPPro\\EMPPro.csproj|solutionrelative:emppro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,193 +94,263 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 10,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "EMPPro\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "EMPPro\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T03:47:22.161Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_IdentityLayout.cshtml",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\Areas\\Identity\\Pages\\_IdentityLayout.cshtml",
-              "RelativeDocumentMoniker": "EMPPro\\Areas\\Identity\\Pages\\_IdentityLayout.cshtml",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\Areas\\Identity\\Pages\\_IdentityLayout.cshtml",
-              "RelativeToolTip": "EMPPro\\Areas\\Identity\\Pages\\_IdentityLayout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T03:41:40.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\Shared\\NavMenu.razor",
-              "RelativeDocumentMoniker": "EMPPro\\Shared\\NavMenu.razor",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\Shared\\NavMenu.razor",
-              "RelativeToolTip": "EMPPro\\Shared\\NavMenu.razor",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T03:13:40.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\Shared\\MainLayout.razor",
-              "RelativeDocumentMoniker": "EMPPro\\Shared\\MainLayout.razor",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\Shared\\MainLayout.razor",
-              "RelativeToolTip": "EMPPro\\Shared\\MainLayout.razor",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T03:14:07.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\_Imports.razor",
-              "RelativeDocumentMoniker": "EMPPro\\_Imports.razor",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\_Imports.razor",
-              "RelativeToolTip": "EMPPro\\_Imports.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T03:43:01.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "EMPPro\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "EMPPro\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T03:53:08.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "EMPPro\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "EMPPro\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T03:53:33.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RedirectToLogin.razor",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\Components\\RedirectToLogin.razor",
-              "RelativeDocumentMoniker": "EMPPro\\Components\\RedirectToLogin.razor",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\Components\\RedirectToLogin.razor",
-              "RelativeToolTip": "EMPPro\\Components\\RedirectToLogin.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T03:59:33.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Host.cshtml",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\Pages\\_Host.cshtml",
-              "RelativeDocumentMoniker": "EMPPro\\Pages\\_Host.cshtml",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\Pages\\_Host.cshtml",
-              "RelativeToolTip": "EMPPro\\Pages\\_Host.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T03:43:33.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SurveyPrompt.razor",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\Shared\\SurveyPrompt.razor",
-              "RelativeDocumentMoniker": "EMPPro\\Shared\\SurveyPrompt.razor",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\Shared\\SurveyPrompt.razor",
-              "RelativeToolTip": "EMPPro\\Shared\\SurveyPrompt.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T03:43:10.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EMPPro",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\EMPPro.csproj",
-              "RelativeDocumentMoniker": "EMPPro\\EMPPro.csproj",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\EMPPro.csproj",
-              "RelativeToolTip": "EMPPro\\EMPPro.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-20T03:39:56.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "App.razor",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\App.razor",
-              "RelativeDocumentMoniker": "EMPPro\\App.razor",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\App.razor",
-              "RelativeToolTip": "EMPPro\\App.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T03:16:45.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\Program.cs",
-              "RelativeDocumentMoniker": "EMPPro\\Program.cs",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\Program.cs",
-              "RelativeToolTip": "EMPPro\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EMPPro\\Models\\Employee.cs",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Models\\Employee.cs",
+              "RelativeToolTip": "EMPPro\\Models\\Employee.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCsAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T03:14:30.729Z",
+              "WhenOpened": "2024-05-21T06:46:27.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EMPPro\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "EMPPro\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T03:47:22.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_IdentityLayout.cshtml",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Areas\\Identity\\Pages\\_IdentityLayout.cshtml",
+              "RelativeDocumentMoniker": "EMPPro\\Areas\\Identity\\Pages\\_IdentityLayout.cshtml",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Areas\\Identity\\Pages\\_IdentityLayout.cshtml",
+              "RelativeToolTip": "EMPPro\\Areas\\Identity\\Pages\\_IdentityLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T03:41:40.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "EMPPro\\Shared\\NavMenu.razor",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "EMPPro\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T03:13:40.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "EMPPro\\Shared\\MainLayout.razor",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "EMPPro\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T03:14:07.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\_Imports.razor",
+              "RelativeDocumentMoniker": "EMPPro\\_Imports.razor",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\_Imports.razor",
+              "RelativeToolTip": "EMPPro\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T03:43:01.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "EMPPro\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "EMPPro\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T03:53:08.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Program.cs",
+              "RelativeDocumentMoniker": "EMPPro\\Program.cs",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Program.cs",
+              "RelativeToolTip": "EMPPro\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:14:30.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "EMPPro\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "EMPPro\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:03:50.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "EMPPro\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "EMPPro\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:21:17.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "EMPPro\\Data\\DataContext.cs",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Data\\DataContext.cs",
+              "RelativeToolTip": "EMPPro\\Data\\DataContext.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwEEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:31:26.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "EMPPro\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "EMPPro\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T14:21:24.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\appsettings.json",
+              "RelativeDocumentMoniker": "EMPPro\\appsettings.json",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\appsettings.json",
+              "RelativeToolTip": "EMPPro\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T12:28:41.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "EMPPro\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "EMPPro\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T03:53:33.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EMPPro\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "EMPPro\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T11:39:22.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RedirectToLogin.razor",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Components\\RedirectToLogin.razor",
+              "RelativeDocumentMoniker": "EMPPro\\Components\\RedirectToLogin.razor",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Components\\RedirectToLogin.razor",
+              "RelativeToolTip": "EMPPro\\Components\\RedirectToLogin.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T03:59:33.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "EMPPro\\Pages\\_Host.cshtml",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "EMPPro\\Pages\\_Host.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T03:43:33.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SurveyPrompt.razor",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Shared\\SurveyPrompt.razor",
+              "RelativeDocumentMoniker": "EMPPro\\Shared\\SurveyPrompt.razor",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Shared\\SurveyPrompt.razor",
+              "RelativeToolTip": "EMPPro\\Shared\\SurveyPrompt.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T03:43:10.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EMPPro.csproj",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\EMPPro.csproj",
+              "RelativeDocumentMoniker": "EMPPro\\EMPPro.csproj",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\EMPPro.csproj",
+              "RelativeToolTip": "EMPPro\\EMPPro.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-20T03:39:56.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.razor",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\App.razor",
+              "RelativeDocumentMoniker": "EMPPro\\App.razor",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\App.razor",
+              "RelativeToolTip": "EMPPro\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T03:16:45.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Index.razor",
-              "DocumentMoniker": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\Pages\\Index.razor",
+              "DocumentMoniker": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "EMPPro\\Pages\\Index.razor",
-              "ToolTip": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\Pages\\Index.razor",
+              "ToolTip": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\Pages\\Index.razor",
               "RelativeToolTip": "EMPPro\\Pages\\Index.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T03:12:53.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T03:12:53.281Z"
             }
           ]
         }

@@ -1,25 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\EMPPro.csproj": {}
+    "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\EMPPro.csproj": {}
   },
   "projects": {
-    "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\EMPPro.csproj": {
+    "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\EMPPro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\EMPPro.csproj",
+        "projectUniqueName": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\EMPPro.csproj",
         "projectName": "EMPPro",
-        "projectPath": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\EMPPro.csproj",
-        "packagesPath": "C:\\Users\\HumaiunKabir\\.nuget\\packages\\",
-        "outputPath": "D:\\SourceControl\\GitHubProject\\EMPPro\\EMPPro\\obj\\",
+        "projectPath": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\EMPPro.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\Software Development\\GitHubProject\\ABFLTiketingSystem\\EMPPro\\EMPPro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\HumaiunKabir\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -28,10 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -76,11 +72,19 @@
               "target": "Package",
               "version": "[7.0.1, )"
             },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.12, )"
             }
           },
           "imports": [

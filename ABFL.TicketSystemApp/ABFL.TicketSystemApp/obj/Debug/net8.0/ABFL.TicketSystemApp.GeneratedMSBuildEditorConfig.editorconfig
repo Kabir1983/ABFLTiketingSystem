@@ -17,59 +17,59 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ABFL.TicketSystemApp
 build_property.RootNamespace = ABFL.TicketSystemApp
-build_property.ProjectDir = D:\SourceControl\GitHubProject\ABFL.TicketSystemApp\ABFL.TicketSystemApp\
+build_property.ProjectDir = E:\Software Development\GitHubProject\ABFLTiketingSystem\ABFL.TicketSystemApp\ABFL.TicketSystemApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\SourceControl\GitHubProject\ABFL.TicketSystemApp\ABFL.TicketSystemApp
+build_property.MSBuildProjectDirectory = E:\Software Development\GitHubProject\ABFLTiketingSystem\ABFL.TicketSystemApp\ABFL.TicketSystemApp
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/SourceControl/GitHubProject/ABFL.TicketSystemApp/ABFL.TicketSystemApp/Views/Home/Index.cshtml]
+[E:/Software Development/GitHubProject/ABFLTiketingSystem/ABFL.TicketSystemApp/ABFL.TicketSystemApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SourceControl/GitHubProject/ABFL.TicketSystemApp/ABFL.TicketSystemApp/Views/Home/Privacy.cshtml]
+[E:/Software Development/GitHubProject/ABFLTiketingSystem/ABFL.TicketSystemApp/ABFL.TicketSystemApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SourceControl/GitHubProject/ABFL.TicketSystemApp/ABFL.TicketSystemApp/Views/MistakeType/Create.cshtml]
+[E:/Software Development/GitHubProject/ABFLTiketingSystem/ABFL.TicketSystemApp/ABFL.TicketSystemApp/Views/MistakeType/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzdGFrZVR5cGVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SourceControl/GitHubProject/ABFL.TicketSystemApp/ABFL.TicketSystemApp/Views/MistakeType/Delete.cshtml]
+[E:/Software Development/GitHubProject/ABFLTiketingSystem/ABFL.TicketSystemApp/ABFL.TicketSystemApp/Views/MistakeType/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzdGFrZVR5cGVcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SourceControl/GitHubProject/ABFL.TicketSystemApp/ABFL.TicketSystemApp/Views/MistakeType/Details.cshtml]
+[E:/Software Development/GitHubProject/ABFLTiketingSystem/ABFL.TicketSystemApp/ABFL.TicketSystemApp/Views/MistakeType/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzdGFrZVR5cGVcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SourceControl/GitHubProject/ABFL.TicketSystemApp/ABFL.TicketSystemApp/Views/MistakeType/Edit.cshtml]
+[E:/Software Development/GitHubProject/ABFLTiketingSystem/ABFL.TicketSystemApp/ABFL.TicketSystemApp/Views/MistakeType/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzdGFrZVR5cGVcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SourceControl/GitHubProject/ABFL.TicketSystemApp/ABFL.TicketSystemApp/Views/MistakeType/Index.cshtml]
+[E:/Software Development/GitHubProject/ABFLTiketingSystem/ABFL.TicketSystemApp/ABFL.TicketSystemApp/Views/MistakeType/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzdGFrZVR5cGVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SourceControl/GitHubProject/ABFL.TicketSystemApp/ABFL.TicketSystemApp/Views/Shared/Error.cshtml]
+[E:/Software Development/GitHubProject/ABFLTiketingSystem/ABFL.TicketSystemApp/ABFL.TicketSystemApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SourceControl/GitHubProject/ABFL.TicketSystemApp/ABFL.TicketSystemApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Software Development/GitHubProject/ABFLTiketingSystem/ABFL.TicketSystemApp/ABFL.TicketSystemApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SourceControl/GitHubProject/ABFL.TicketSystemApp/ABFL.TicketSystemApp/Views/_ViewImports.cshtml]
+[E:/Software Development/GitHubProject/ABFLTiketingSystem/ABFL.TicketSystemApp/ABFL.TicketSystemApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SourceControl/GitHubProject/ABFL.TicketSystemApp/ABFL.TicketSystemApp/Views/_ViewStart.cshtml]
+[E:/Software Development/GitHubProject/ABFLTiketingSystem/ABFL.TicketSystemApp/ABFL.TicketSystemApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/SourceControl/GitHubProject/ABFL.TicketSystemApp/ABFL.TicketSystemApp/Views/Shared/_Layout.cshtml]
+[E:/Software Development/GitHubProject/ABFLTiketingSystem/ABFL.TicketSystemApp/ABFL.TicketSystemApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-uatrtft5ns
